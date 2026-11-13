@@ -82,4 +82,4 @@ Record the answer in "Lessons" and update the rule above.
 
 Dated notes from Tim's real results. Newest first.
 
-- (none yet)
+- 13 Nov 2026: an object with a strong usual material keeps it. "Carved wooden crown with flaking gold paint" came out as a metal crown twice. Lead with the unusual material and say how much of it shows ("bare grey wood across most of it, only patches of gold paint"), and fix with an edit that names the object.
