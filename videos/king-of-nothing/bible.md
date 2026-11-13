@@ -68,8 +68,30 @@ Unnamed treasure seekers, no sheets. Described per shot.
 
 - Crown: carved wood, mostly gold paint, chipped at the edges. A later close-up shows the gold paint falling off (the reveal, so keep it mostly gold until then). `refs/prop-crown.jpg` approved 13 Nov 2026: pine boards, gold house paint, iron nail heads, small chips of grey wood. Attach it whenever the crown is in a shot (Grok turns crowns into metal without it).
 
+## Band
+
+Status: waiting for Tim's band input (stage 4B, see the skill's band.md).
+
+- **Band identity line:** `a skeleton with a smooth, intact, weathered bone-white skull and empty dark eye sockets`
+- **Stage:** [location], [light variant]. Gear: [where the drum kit, amps and microphone stand are]
+- **References:** `refs/band-lineup`, `refs/stage-plate`, `refs/band-master`
+
+| Member | Member block | Instrument | Hand | Position | Short anchor | Sheet |
+| --- | --- | --- | --- | --- | --- | --- |
+| | | | right | | | `refs/band-...-sheet` |
+
+Instruments:
+
+- [instrument]: `[instrument block with counts]`, `refs/prop-...`
+
 ## Shot list
 
 | # | Tim's description | Location | Characters | Status |
 | --- | --- | --- | --- | --- |
 | 1 | | | | to do |
+
+## Band shots
+
+| # | Description | Members | Attach | Status |
+| --- | --- | --- | --- | --- |
+| B1 | | | | to do |
