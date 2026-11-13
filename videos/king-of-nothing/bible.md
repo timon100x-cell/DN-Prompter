@@ -66,10 +66,10 @@ Unnamed treasure seekers, no sheets. Described per shot.
 
 ### Ballroom (band stage)
 
-- **Location block:** `A wide timber ballroom inside the castle, with a broad floor of worn grey planks running to the back wall and a high beamed ceiling. One huge round chandelier made from a wagon wheel and iron hoops hangs from the center of the ceiling with two rings of lit candles, two tall faded crimson curtains hang beside two tall windows in the back wall, a row of plain wooden chairs stands along each side wall, and one tall mirror with a chipped gold-painted frame leans against the right wall.`
+- **Location block:** `A wide timber ballroom inside the castle, with a broad floor of worn grey planks running to the back wall and a high beamed ceiling. One huge round chandelier made from a wagon wheel and iron hoops hangs from the center of the ceiling with two rings of lit candles, two tall windows in the back wall are each framed by a pair of faded crimson curtains, a row of plain wooden chairs stands along each side wall, and one tall mirror with a chipped gold-painted frame leans against the right wall.`
 - **Short anchor:** `the timber ballroom with the wagon-wheel chandelier`
 - **Light:** night, warm candlelight from the chandelier, windows dark blue. Burning variant for the fire part of the video (edit of the master).
-- **References:** to come: `ballroom-master`, `ballroom-burning`.
+- **References:** `refs/ballroom-master.jpg` approved 13 Nov 2026 (first try; Grok gave a two-tier wagon-wheel chandelier and a curtain pair per window, kept). To come: `ballroom-burning`.
 
 ## Props
 
@@ -85,11 +85,18 @@ Status: answers in (13 Nov 2026). Five members, dressed as the king's old castle
 
 | Member | Member block | Instrument | Hand | Position | Short anchor | Sheet |
 | --- | --- | --- | --- | --- | --- | --- |
-| | | | right | | | `refs/band-...-sheet` |
+| Guitarist | `a broad skeleton in a dented iron helmet, a short rusted chain-mail shirt and a torn grey wool cloak, with dark trousers and worn boots` | electric guitar | right | left | `the broad guitarist in the dented iron helmet and grey cloak` | |
+| Banjo player | `a short, wiry skeleton in a faded mustard-yellow cloth cap and a quilted brown padded jacket with torn sleeves, with dark trousers and worn boots` | banjo | right | front left | `the short banjo player in the mustard-yellow cap` | |
+| Singer | `a tall, thin skeleton with a bare skull, wearing a long faded blue tabard over bare ribs and a worn leather belt, with dark trousers and worn boots` | vocals | | front center | `the tall singer in the long faded blue tabard` | |
+| Bassist | `a very tall skeleton in a rough black wool hood and a long black leather coat, with dark trousers and worn boots` | bass guitar | right | right | `the very tall bassist in the black hood and leather coat` | |
+| Drummer | `a heavy, broad skeleton in a chain-mail hood and a sleeveless leather vest that leaves his arm bones bare, with dark trousers and worn boots` | drum kit | | back center | `the heavy drummer in the chain-mail hood` | |
 
 Instruments:
 
-- [instrument]: `[instrument block with counts]`, `refs/prop-...`
+- Electric guitar: `a worn dark electric guitar with six strings, six tuning pegs and one neck`
+- Bass guitar: `a worn dark bass guitar with four strings, four tuning pegs and a long neck`
+- Banjo: `a worn banjo with a round drum body, a pale scuffed head, five strings and five tuning pegs, one of them a short peg partway up the neck`
+- Drum kit: `a worn dark drum kit with one bass drum, one snare drum, two rack toms, one floor tom, one hi-hat, two crash cymbals, one ride cymbal and one stool`
 
 ## Shot list
 
