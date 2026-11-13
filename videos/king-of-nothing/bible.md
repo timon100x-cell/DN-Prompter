@@ -40,7 +40,7 @@ Style pick: `refs/style-pick.jpg` (test A; not attached to shots by default). It
 Saved character from `cast/skeleton-cowboy/`. New outfit for this video: royal robe (outfit 2). Changed 13 Nov 2026 from a crimson coat to a faded blue Tudor-style robe after Tim's first result. No sheriff star in this video (nothing of value).
 
 - **Identity block:** `A tall skeleton cowboy with a smooth, intact, weathered bone-white skull and empty dark eye sockets.`
-- **Outfit block:** `He wears a carved wooden crown with flaking gold paint showing grey wood beneath, sitting directly on his skull, with a few long strands of grey hair beneath it, a faded navy-blue padded doublet with a high frayed collar, a heavy knee-length over-robe of faded grey-blue brocade with wide open sleeves and torn, frayed edges, a moth-eaten black fur collar across the shoulders, a heavy chain of dull tarnished brass medallions over the chest, a worn black leather belt, dark trousers, worn black riding boots and black leather gloves.`
+- **Outfit block:** `He wears a carved wooden crown covered in worn gold paint, with the wood grain showing through and a few chipped spots of bare grey wood at the edges, sitting directly on his skull, with a few long strands of grey hair beneath it, a faded navy-blue padded doublet with a high frayed collar, a heavy knee-length over-robe of faded grey-blue brocade with wide open sleeves and torn, frayed edges, a moth-eaten black fur collar across the shoulders, a heavy chain of dull tarnished brass medallions over the chest, a worn black leather belt, dark trousers, worn black riding boots and black leather gloves.`
 - **Short anchor:** `the skeleton king in his faded blue brocade robe, black fur collar and flaking gold-painted wooden crown`
 - **Outfit inspiration:** `refs/king-outfit-inspiration.jpg` (Tim's photo; for Tim's eye only, never attach to Grok because it shows a real actor)
 - **Sheet:** `refs/cowboy-royal-robe-sheet` not made yet
@@ -59,7 +59,7 @@ Unnamed treasure seekers, no sheets. Described per shot.
 
 ## Props
 
-- [prop]: `refs/prop-...`
+- Crown: carved wood, mostly gold paint, chipped at the edges. A later close-up shows the gold paint falling off (the reveal, so keep it mostly gold until then). `refs/prop-crown` not made yet.
 
 ## Shot list
 
