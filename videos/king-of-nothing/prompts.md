@@ -35,3 +35,5 @@ Throne room master: approved first try, refs/throne-room-master.jpg.
 
 Throne room night and corner edits: both approved first try.
 
+Castle burning and ruins edits of style-pick: both approved first try.
+
