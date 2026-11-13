@@ -26,3 +26,4 @@ A weathered timber castle stands alone on flat open prairie, a narrow wooden pla
 ## Cowboy source image, royal robe (13 Nov 2026)
 
 Try 1 (crimson coat, red fissures): Tim changed the outfit and dropped the fissures. Try 2 (blue robe, hairline cracks): replaced before use. Try 3 (blue robe, smooth skull): skull, robe, fur, chain good; crown came out metal again. Sent to edit.
+Crown edit on try 3: crown turned grey metal. Crown prop prompt (mostly gold paint): came out tarnished silver metal with skull ornaments. Both rejected.
