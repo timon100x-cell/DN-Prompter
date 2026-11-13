@@ -43,3 +43,4 @@ Drum kit: Tim approved the first image as is (stool reads as behind the kit). No
 Band sheets (edits of band-lineup): drummer, bassist, banjo approved first try. Singer: seam lines and spots on bare skull, sent to edit. Guitarist: profile view wore the banjo player's quilted jacket, sent to edit.
 Guitarist sheet: profile fix edit worked, approved.
 Stage plate (ballroom-master + prop-drums): approved first try; walls came out as timber-framed plaster instead of planks.
+Singer showman sheet: outfit-change edit of the old sheet worked first try.
