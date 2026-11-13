@@ -93,9 +93,9 @@ Status: answers in (13 Nov 2026). Five members, dressed as the king's old castle
 
 Instruments:
 
-- Electric guitar: `a worn dark electric guitar with six strings, six tuning pegs and one neck`
-- Bass guitar: `a worn dark bass guitar with four strings, four tuning pegs and a long neck`
-- Banjo: `a worn banjo with a round drum body, a pale scuffed head, five strings and five tuning pegs, one of them a short peg partway up the neck`
+- Electric guitar: `a worn black electric guitar with six strings, six tuning pegs and one neck`, `refs/prop-guitar.jpg`
+- Bass guitar: `a worn dark bass guitar with four strings, four tuning pegs and a long neck`, `refs/prop-bass.jpg`
+- Banjo: `a worn banjo with a round drum body, a pale scuffed head, five strings and five tuning pegs, one of them a short peg partway up the neck`, `refs/prop-banjo.jpg`
 - Drum kit: `a worn dark drum kit with one bass drum, one snare drum, two rack toms, one floor tom, one hi-hat, two crash cymbals, one ride cymbal and one stool`
 
 ## Shot list

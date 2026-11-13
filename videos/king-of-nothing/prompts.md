@@ -38,3 +38,4 @@ Throne room night and corner edits: both approved first try.
 Castle burning and ruins edits of style-pick: both approved first try.
 
 Ballroom master, ballroom burning, band line-up: all approved first try.
+Instruments: guitar, bass, banjo approved first try (counts right). Drum kit: stool came out in front of the kit and the far-right cymbal came out as a second hi-hat pair; sent to edit.
