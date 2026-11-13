@@ -49,3 +49,4 @@ B3 try 1 (band master + singer sheet): good but background barely blurred; sent 
 B3 blur edit: approved.
 B5, B6: short focus edits of band master, approved first try.
 B7: approved first try. B8: banjo came out with a six-peg guitar headstock and no fifth-string side peg; sent to edit with prop-banjo.
+B8: Tim kept the first result as is.

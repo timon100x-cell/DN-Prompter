@@ -115,7 +115,7 @@ Instruments:
 | B5 | Guitarist, medium | guitarist | stage plate, guitarist sheet, prop-guitar | approved: shots/B5.jpg (short focus edit of band master) |
 | B6 | Guitar fretting hand, extreme close-up | guitarist | prop-guitar, guitarist sheet | approved: shots/B6.jpg (short focus edit of band master) |
 | B7 | Bassist, medium | bassist | stage plate, bassist sheet, prop-bass | approved: shots/B7.jpg (short focus edit) |
-| B8 | Banjo player, medium | banjo player | stage plate, banjo sheet, prop-banjo | to do |
+| B8 | Banjo player, medium | banjo player | stage plate, banjo sheet, prop-banjo | approved: shots/B8.jpg (Tim kept it; banjo has a guitar-style headstock) |
 | B9 | Banjo hand, extreme close-up | banjo player | prop-banjo, banjo sheet | to do |
 | B10 | Drummer from the front | drummer | stage plate, drummer sheet, prop-drums | to do |
 | B11 | Sticks and cymbal, extreme close-up | drummer | prop-drums, drummer sheet | to do |
