@@ -48,3 +48,4 @@ Band master: singer outfit swap edit (band-master + new singer sheet) worked fir
 B3 try 1 (band master + singer sheet): good but background barely blurred; sent to edit. B4: Tim's own edit of band master "focus on the head of the lead singer": approved, better than a fresh build.
 B3 blur edit: approved.
 B5, B6: short focus edits of band master, approved first try.
+B7: approved first try. B8: banjo came out with a six-peg guitar headstock and no fifth-string side peg; sent to edit with prop-banjo.
