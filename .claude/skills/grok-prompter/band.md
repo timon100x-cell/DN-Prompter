@@ -89,10 +89,12 @@ Attach the drum kit image as Image 2 when the kit matters, with the job line "Im
 
 The full band in position. This is the hardest image of the video, so it is made and approved once, and other full-band angles are edits of it.
 
+Never ask for the members to stand "in position" facing the camera: with the line-up attached, Grok copies its straight row and flat light and the band looks pasted in (King of Nothing, 13 November 2026). Stagger the depths, turn members toward each other, and ask for light falloff and floor shadows.
+
 ```
 Settings: 16:9, 2K. Attach in this order: 1 stage plate, 2 line-up
 
-Image 1 is the stage: keep its layout, gear positions and lighting. Image 2 is the band line-up: use it for each member's skull, headwear and clothing only. [Number] skeleton musicians stand in position on the stage just before the first note: [singer anchor] at the front center with one hand on the microphone stand, [guitarist anchor] at the left with a six-string electric guitar, [bassist anchor] at the right with a four-string bass guitar, [drummer anchor] seated behind the drum kit at the back with both sticks raised. [Light from the location's approved variant, every member clearly readable.] [Colors.] Wide shot at eye level showing the whole band head to foot, [number] figures in one scene. [Look line]
+Image 1 is the stage: keep its room, gear positions and lighting. Image 2 is the band line-up: use it for each member's skull, headwear and clothing only, not their poses or arrangement. [Number] skeleton musicians are spread across the stage at different depths in the quiet second before the first note: [singer anchor] at the microphone stand in the foreground center, gripping it with one hand; [guitarist anchor] further back at the left with his weight on one leg, [guitar block] low on its strap; [bassist anchor] at the right, half turned toward the drummer, holding [bass block]; and [drummer anchor] seated on the stool behind the drum kit at the back with both sticks raised. [Handedness sentence.] [Light from the location's approved variant, falling off toward the walls, each figure casting a soft shadow on the floor, every member still readable.] [Colors.] Wide shot from slightly off center at chest height, the singer large in the foreground and the band receding behind him, [number] figures in one scene. [Look line]
 ```
 
 Save as `refs/band-lineup`, `refs/band-<member>-sheet`, `refs/prop-<instrument>`, `refs/stage-plate`, `refs/band-master`.

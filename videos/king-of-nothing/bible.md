@@ -81,7 +81,7 @@ Status: answers in (13 Nov 2026). Five members, dressed as the king's old castle
 
 - **Band identity line:** `a skeleton with a smooth, intact, weathered bone-white skull and empty dark eye sockets`
 - **Stage:** ballroom, night candlelight. Gear: drum kit centered at the back, one microphone stand at the front center, no amps.
-- **References:** `refs/band-lineup.jpg` approved 13 Nov 2026 (first try; order and headwear right, heights came out nearly equal). Also approved: instruments, all five member sheets, `refs/stage-plate.jpg` (the edit restyled the walls to timber-framed plaster; band shots follow the stage plate). To come: `refs/band-master` (B1).
+- **References:** `refs/band-lineup.jpg` approved 13 Nov 2026 (first try; order and headwear right, heights came out nearly equal). Also approved: instruments, all five member sheets, `refs/stage-plate.jpg` (the edit restyled the walls to timber-framed plaster; band shots follow the stage plate). `refs/band-master.jpg` approved 13 Nov 2026 (second try; Tim kept it though the guitarist's guitar looks long like a bass).
 
 | Member | Member block | Instrument | Hand | Position | Short anchor | Sheet |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ Instruments:
 
 | # | Description | Members | Attach | Status |
 | --- | --- | --- | --- | --- |
-| B1 | Full band, wide (band master) | all five | stage plate, band-lineup | to do |
+| B1 | Full band, wide (band master) | all five | stage plate, band-lineup | approved: refs/band-master.jpg |
 | B2 | Full band, low angle | all five | band master (edit) | to do |
 | B3 | Singer, medium | singer | stage plate, singer sheet | to do |
 | B4 | Singer, close-up | singer | singer sheet, stage plate | to do |
