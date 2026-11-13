@@ -14,7 +14,7 @@ How to ask:
 
 | Round | Ask about | Goes into the bible as |
 | --- | --- | --- |
-| 1 Premise | The video in one sentence. The feeling it should leave. Roughly how many shots. Which saved characters appear (the skeleton cowboy?) and which new ones | Premise, scope, cast list |
+| 1 Premise | The video in one sentence. The feeling it should leave. Roughly how many shots. Which saved characters appear (the skeleton cowboy?) and which new ones. Whether this video has band frames (default yes; the details are asked later in stage 4B) | Premise, scope, cast list |
 | 2 Place and time | Era, region, season, weather, time of day. One world or several | World facts |
 | 3 Light | The main light sources in this world (sun, fire, neon, moon, lamps). Hard or soft. Warm or cool. How bright the darkest scenes may get | Light rules |
 | 4 Color | Two or three colors for subjects, and the background colors they sit against. Any color that is reserved for one thing | Palette |

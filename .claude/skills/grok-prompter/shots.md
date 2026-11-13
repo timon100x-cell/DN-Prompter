@@ -8,6 +8,8 @@ Tim brings the shot list. Save it in the bible as a numbered table (number, his 
 
 Work through the list in order unless Tim names a shot. For speed he can ask for a batch ("shots 4 to 8"); give each prompt in its own code block.
 
+Band shots (B1, B2, ...) are a separate list in the bible. Build them as below, plus the extra rules in `band.md`.
+
 ## Building a shot prompt
 
 1. Decide the references: the location view that matches the camera direction (master, reverse or corner), then the sheet of each character in frame, then a prop only if it is in frame. Two or three in total.

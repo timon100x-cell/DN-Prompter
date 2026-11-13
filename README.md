@@ -11,16 +11,18 @@ Open the DN Prompter project in Claude on any device and write one of these:
 | `New video: <name>` | Claude starts the world questions for a new video |
 | `Continue video: <name>` | Claude reads where you left off and carries on |
 | `Add a character` / `Add a location` | Claude asks a few questions and writes the reference prompts |
+| `Add the band` | Claude asks who is in the band for this video and sets up the band frames |
 | Paste your shot list | Claude writes a prompt for each shot, one at a time |
 | Upload a Grok result | Claude checks it against the prompt and says approved, or gives you a fix |
 
-## The five stages
+## The stages
 
 1. **World.** Short rounds of questions about place, time, light, color and camera.
 2. **Look test.** Three test images. You pick one and the look is locked.
 3. **Characters.** For each character: one source image, then a character sheet.
 4. **Locations.** For each place: an empty master view, a reverse angle and a closer corner.
-5. **Shots.** One prompt per shot from your list, with the references to attach, then check and fix.
+5. **Band (optional).** A few questions about this video's skeleton band, then a line-up, the instruments and the stage in one of your locations.
+6. **Shots.** One prompt per shot from your list, with the references to attach, then check and fix.
 
 ## Where things are
 

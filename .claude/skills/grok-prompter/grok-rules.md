@@ -70,6 +70,13 @@ Tim's stills become the first frame of a Grok video clip, so every shot prompt d
 - Keep the pose stable and physically plausible, with hands and feet visible when they will move.
 - Avoid motion blur and frozen mid-air objects. The video model adds the motion.
 
+## Instruments and hands
+
+- Write every instrument with its counts: "a six-string electric guitar", "a four-string bass guitar", the drum kit piece by piece on its reference image.
+- Hands on strings, sticks and microphones fail most often. Describe where each hand is, and check hands first in the result.
+- State handedness in every guitar and bass shot, because Grok mirrors players.
+- The full rules for band frames are in `band.md`.
+
 ## Open questions to settle in the first test session
 
 Record the answer in "Lessons" and update the rule above.

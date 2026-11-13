@@ -1,6 +1,6 @@
 ---
 name: grok-prompter
-description: Guided workflow that builds the world of a new video and writes Grok Imagine (Imagine Image 2.0) text-to-image prompts for it - world questions, look test, character sheets, location reference images, then per-shot start-frame prompts with a check-and-fix loop. Use whenever Tim says "new video", "continue video", asks for a Grok image prompt, a character sheet, a location reference, a shot prompt, or shows a Grok result to check.
+description: Guided workflow that builds the world of a new video and writes Grok Imagine (Imagine Image 2.0) text-to-image prompts for it - world questions, look test, character sheets, location reference images, an optional step for frames of the skeleton metal band playing in the same setting, then per-shot start-frame prompts with a check-and-fix loop. Use whenever Tim says "new video", "continue video", asks for a Grok image prompt, a character sheet, a location reference, band frames, a shot prompt, or shows a Grok result to check.
 ---
 
 # Grok Prompter
@@ -28,7 +28,7 @@ Start a video by copying `videos/_template/`. Recurring characters live in `cast
 
 The bible is the single source of truth. Always paste character blocks, location blocks and the look line from the bible, character for character. Never retype or reword them, because small wording changes cause visible drift between shots.
 
-## The five stages
+## The stages
 
 Work through them in order. Do not move on until Tim approves the current stage. At the start of every session read the bible, say in one line where the video stands, and continue from there.
 
@@ -38,9 +38,12 @@ Work through them in order. Do not move on until Tim approves the current stage.
 | 2 Look test | `world-questions.md` | Tim picked one of three test images and the look line is locked |
 | 3 Characters | `characters.md` | Every character has a block and an approved sheet |
 | 4 Locations | `locations.md` | Every location has a block and approved reference images |
-| 5 Shots | `shots.md` | Every shot on Tim's list is approved |
+| 4B Band (optional) | `band.md` | The band has a line-up, sheets, instruments, a stage plate and a band master, or Tim said this video has no band |
+| 5 Shots | `shots.md` | Every shot on Tim's list is approved, story shots and band shots |
 
 Tim brings his own shot list. Do not invent story or restructure his shots. If a shot is unclear, ask one question.
+
+Most videos also have frames of a skeleton metal band playing in one of the story's locations. The band is different in every video, so ask about it every time (stage 4B). Band shots are numbered B1, B2 and so on, apart from the story shots.
 
 Tim may jump around ("add a character", "new location", "redo shot 7"). That is fine. Do the thing, update the bible, and say which stage you are back in.
 

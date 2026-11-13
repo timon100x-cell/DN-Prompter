@@ -43,8 +43,30 @@ Style pick: `refs/style-pick` (not attached to shots by default)
 
 - [prop]: `refs/prop-...`
 
+## Band
+
+Status: not started / no band in this video
+
+- **Band identity line:** `a skeleton with a smooth, intact, weathered bone-white skull and empty dark eye sockets`
+- **Stage:** [location], [light variant]. Gear: [where the drum kit, amps and microphone stand are]
+- **References:** `refs/band-lineup`, `refs/stage-plate`, `refs/band-master`
+
+| Member | Member block | Instrument | Hand | Position | Short anchor | Sheet |
+| --- | --- | --- | --- | --- | --- | --- |
+| | | | right | | | `refs/band-...-sheet` |
+
+Instruments:
+
+- [instrument]: `[instrument block with counts]`, `refs/prop-...`
+
 ## Shot list
 
 | # | Tim's description | Location | Characters | Status |
 | --- | --- | --- | --- | --- |
 | 1 | | | | to do |
+
+## Band shots
+
+| # | Description | Members | Attach | Status |
+| --- | --- | --- | --- | --- |
+| B1 | | | | to do |
