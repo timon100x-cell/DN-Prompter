@@ -5,3 +5,4 @@
 - 13 Nov 2026: Tim brought his own inspiration image before the look test. The skill has no step for that; it was saved as refs/castle-inspiration.
 - 13 Nov 2026: the base look line I wrote named scene materials (wood, grass, water). That breaks on studio sheets. Look lines must name no materials; the skill's example "natural skin and fabric texture" invites this mistake.
 - 13 Nov 2026: for the look test, variants B and C were given as "replace the last sentence". Tim pastes by hand, so every variant should be a full copyable prompt.
+- 13 Nov 2026, first cowboy source image: Grok made the "wooden crown with flaking gold paint" as a shiny metal crown, gave 8 buttons instead of 6, and the red fissures read bright. Tim then dropped the fissures for good and changed the outfit.

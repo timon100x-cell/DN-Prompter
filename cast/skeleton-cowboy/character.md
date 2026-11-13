@@ -4,12 +4,12 @@ Saved character for Dark Nord. He is always a skeleton. His outfit may change fr
 
 ## Identity block (never changes)
 
-`A tall skeleton cowboy with a weathered bone-white skull, a cracked forehead with thin glowing red fissures, and empty dark eye sockets.`
+`A tall skeleton cowboy with a weathered bone-white skull, a few fine dark hairline cracks across the forehead, and empty dark eye sockets.`
 
 Notes:
 
 - He has no skin, lips or eyes, so he never needs an expression sheet. Emotion comes from pose, head tilt and hands.
-- The red fissures are thin and dim. Write them once per prompt. Never write "glowing" for anything else in the same prompt, or the glow spreads.
+- No red fissures, ever. Tim ruled them out on 13 November 2026. The forehead cracks are plain dark hairline cracks with no color and no glow.
 - Pose energy: powerful, defiant, in command of the scene. Never passive or slumped unless Tim asks.
 
 ## Outfits

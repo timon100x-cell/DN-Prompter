@@ -61,7 +61,7 @@ Save the approved sheet as `refs/<character>-<outfit>-sheet`.
 - Flat, even light and a plain light grey background. Dramatic light gets baked into the character and copied into every shot. No green screen, it bleeds green into scenes.
 - One sheet per outfit. Mixed outfits on one sheet teach Grok that clothing is optional.
 - Dark clothing gets "a thin rim of light along the edges" so it does not merge with the background.
-- Glowing parts (such as the cowboy's red fissures) are described as thin and dim on the sheet, so the glow does not light the whole figure.
+- Glowing parts are described as thin and dim on the sheet, so the glow does not light the whole figure.
 - Story secrets stay off the sheet. Something revealed later is added in that shot's prompt.
 - An expression sheet only for characters whose close-ups need emotion: six head-and-shoulders panels on the same background, same wardrobe. A skull has no expressions, so the cowboy never needs one.
 
