@@ -29,7 +29,9 @@ After round 6, write the World section into the bible and show Tim a short summa
 
 One or two fixed sentences that close every prompt of this video, word for word. It holds only: photoreal film still, lens or format feel, grain, sharpness. Example:
 
-`Photoreal 35mm film still with fine grain, natural skin and fabric texture, everything in the focal plane sharp.`
+`Photoreal 35mm film still with fine grain, natural surface texture, everything in the focal plane sharp.`
+
+Name no materials or scene content in the look line (no "wood", "grass", "skin"). It closes every prompt, including studio character sheets, and named materials get pulled into the image.
 
 Keep light, color and mood out of the look line. Those change per shot and belong in sentences 4 and 5.
 
