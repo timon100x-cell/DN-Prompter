@@ -81,7 +81,7 @@ Status: answers in (13 Nov 2026). Five members, dressed as the king's old castle
 
 - **Band identity line:** `a skeleton with a smooth, intact, weathered bone-white skull and empty dark eye sockets`
 - **Stage:** ballroom, night candlelight. Gear: drum kit centered at the back, one microphone stand at the front center, no amps.
-- **References:** `refs/band-lineup.jpg` approved 13 Nov 2026 (first try; order and headwear right, heights came out nearly equal). To come: instruments, `refs/stage-plate`, `refs/band-master`, member sheets.
+- **References:** `refs/band-lineup.jpg` approved 13 Nov 2026 (first try; order and headwear right, heights came out nearly equal). Also approved: instruments, all five member sheets, `refs/stage-plate.jpg` (the edit restyled the walls to timber-framed plaster; band shots follow the stage plate). To come: `refs/band-master` (B1).
 
 | Member | Member block | Instrument | Hand | Position | Short anchor | Sheet |
 | --- | --- | --- | --- | --- | --- | --- |
