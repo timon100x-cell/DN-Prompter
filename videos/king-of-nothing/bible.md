@@ -62,7 +62,7 @@ Unnamed treasure seekers, no sheets. Described per shot.
 - **Location block:** `A tall, bare timber hall inside the castle, empty except for one old wooden throne on a low plank platform against the back wall. The throne is a high-backed chair of dark weathered oak with traces of worn gold paint on its arms, a long faded crimson banner hangs on the back wall directly behind it, two narrow slit windows sit high in the back wall, one on each side of the banner, and a heavy plank door barred with a wooden beam is set in the left wall, over a floor of wide grey boards.`
 - **Short anchor:** `the bare timber throne hall with the crimson banner and slit windows`
 - **Light:** day: grey daylight through the slit windows, fog drifting low. Night: candles (variant).
-- **References:** `refs/throne-room-master.jpg` approved 13 Nov 2026 (first try). To come: `-corner`, `-night`, `-reverse` if a shot faces the door.
+- **References:** `refs/throne-room-master.jpg` approved 13 Nov 2026 (first try). Also approved: `refs/throne-room-night.jpg` (six candles), `refs/throne-room-corner.jpg` (throne close). `-reverse` only if a shot faces the door.
 
 ## Props
 

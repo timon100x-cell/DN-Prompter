@@ -33,3 +33,5 @@ King source image: crown swap edit with prop-crown attached worked first try. Ap
 King sheet: sheet edit with source + crown attached; back view robe turned into blue tunic fabric, fixed with one edit. Approved as refs/cowboy-royal-robe-sheet.jpg.
 Throne room master: approved first try, refs/throne-room-master.jpg.
 
+Throne room night and corner edits: both approved first try.
+
