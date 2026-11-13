@@ -86,10 +86,10 @@ Status: answers in (13 Nov 2026). Five members, dressed as the king's old castle
 | Member | Member block | Instrument | Hand | Position | Short anchor | Sheet |
 | --- | --- | --- | --- | --- | --- | --- |
 | Guitarist | `a broad skeleton in a dented iron helmet, a short rusted chain-mail shirt and a torn grey wool cloak, with dark trousers and worn boots` | electric guitar | right | left | `the broad guitarist in the dented iron helmet and grey cloak` | |
-| Banjo player | `a short, wiry skeleton in a faded mustard-yellow cloth cap and a quilted brown padded jacket with torn sleeves, with dark trousers and worn boots` | banjo | right | front left | `the short banjo player in the mustard-yellow cap` | |
+| Banjo player | `a short, wiry skeleton in a faded mustard-yellow cloth cap and a quilted brown padded jacket with torn sleeves, with dark trousers and worn boots` | banjo | right | front left | `the short banjo player in the mustard-yellow cap` | `refs/band-banjo-sheet.jpg` |
 | Singer | `a tall, thin skeleton with a bare skull, wearing a long faded blue tabard over bare ribs and a worn leather belt, with dark trousers and worn boots` | vocals | | front center | `the tall singer in the long faded blue tabard` | |
-| Bassist | `a very tall skeleton in a rough black wool hood and a long black leather coat, with dark trousers and worn boots` | bass guitar | right | right | `the very tall bassist in the black hood and leather coat` | |
-| Drummer | `a heavy, broad skeleton in a chain-mail hood and a sleeveless leather vest that leaves his arm bones bare, with dark trousers and worn boots` | drum kit | | back center | `the heavy drummer in the chain-mail hood` | |
+| Bassist | `a very tall skeleton in a rough black wool hood and a long black leather coat, with dark trousers and worn boots` | bass guitar | right | right | `the very tall bassist in the black hood and leather coat` | `refs/band-bassist-sheet.jpg` |
+| Drummer | `a heavy, broad skeleton in a chain-mail hood and a sleeveless leather vest that leaves his arm bones bare, with dark trousers and worn boots` | drum kit | | back center | `the heavy drummer in the chain-mail hood` | `refs/band-drummer-sheet.jpg` |
 
 Instruments:
 

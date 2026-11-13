@@ -89,4 +89,5 @@ Record the answer in "Lessons" and update the rule above.
 
 Dated notes from Tim's real results. Newest first.
 
+- 13 Nov 2026 (band, King of Nothing): editing one member out of a five-person line-up into a sheet works without cropping; all five came back as single-member sheets. Watch for bleed between neighbours: the guitarist's profile view wore the banjo player's jacket. A bare skull tends to get seam lines and spots; say "smooth, clean skull" again in the sheet prompt.
 - 13 Nov 2026: an object with a strong usual material keeps it. "Carved wooden crown with flaking gold paint" came out as a metal crown twice. Lead with the unusual material and say how much of it shows ("bare grey wood across most of it, only patches of gold paint"), and fix with an edit that names the object. Update same day: the edit and a separate crown prompt also came out metal (silver, with added skulls). Describing how it was made (rough pine boards, iron nails, saw marks, end grain, brushed gold house paint) worked first time. Rule: for an object in an unusual material, describe how it was built, then keep it as a prop reference.

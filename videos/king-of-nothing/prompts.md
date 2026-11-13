@@ -40,3 +40,4 @@ Castle burning and ruins edits of style-pick: both approved first try.
 Ballroom master, ballroom burning, band line-up: all approved first try.
 Instruments: guitar, bass, banjo approved first try (counts right). Drum kit: stool came out in front of the kit and the far-right cymbal came out as a second hi-hat pair; sent to edit.
 Drum kit: Tim approved the first image as is (stool reads as behind the kit). No edit.
+Band sheets (edits of band-lineup): drummer, bassist, banjo approved first try. Singer: seam lines and spots on bare skull, sent to edit. Guitarist: profile view wore the banjo player's quilted jacket, sent to edit.
