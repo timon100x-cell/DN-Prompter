@@ -33,12 +33,18 @@ Style pick: `refs/style-pick.jpg` (test A; not attached to shots by default). It
 
 ## Characters
 
-### [Character name]
+### The skeleton cowboy (the king)
 
-- **Identity block:** `...`
-- **Outfit block:** `...`
-- **Short anchor:** `...`
-- **Sheet:** `refs/...` approved on [date]
+Saved character from `cast/skeleton-cowboy/`. New outfit for this video: royal coat (outfit 2). No sheriff star in this video (nothing of value).
+
+- **Identity block:** `A tall skeleton cowboy with a weathered bone-white skull, a cracked forehead with thin glowing red fissures, and empty dark eye sockets.`
+- **Outfit block:** `He wears a battered wooden crown with flaking gold paint sitting directly on his skull, with a few long strands of grey hair beneath it, a long tattered crimson royal coat, faded and frayed, with a moth-eaten grey fur collar and one row of six tarnished brass buttons, a dark shirt, dark trousers, worn black riding boots and black leather gloves.`
+- **Short anchor:** `the skeleton king in his faded crimson coat and flaking gold-painted wooden crown`
+- **Sheet:** `refs/cowboy-royal-coat-sheet` not made yet
+
+### The crowd
+
+Unnamed treasure seekers, no sheets. Described per shot.
 
 ## Locations
 
