@@ -31,3 +31,5 @@ Crown prop, "homemade crown built from rough pine boards" prompt: approved first
 King source image: crown swap edit with prop-crown attached worked first try. Approved as refs/cowboy-royal-robe-source.jpg.
 
 King sheet: sheet edit with source + crown attached; back view robe turned into blue tunic fabric, fixed with one edit. Approved as refs/cowboy-royal-robe-sheet.jpg.
+Throne room master: approved first try, refs/throne-room-master.jpg.
+
