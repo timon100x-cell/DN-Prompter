@@ -116,7 +116,7 @@ Band shots get their own list in the bible, numbered B1, B2 and so on, so they n
 | Sticks and cymbal, extreme close-up | drum kit, drummer sheet | One stick just above the cymbal |
 | Over a shoulder into the room | stage plate, one member sheet | Shows the place from the stage |
 
-Single-member shots are the reliable ones. Keep full-band shots to a few.
+Single-member shots are the reliable ones. Keep full-band shots to a few. In the kit table, "stage plate" for a single-member shot means the band master once it is approved (see the rule on focus below).
 
 Build each band shot as in `shots.md`, with these additions:
 
@@ -126,7 +126,7 @@ Build each band shot as in `shots.md`, with these additions:
 - **The drummer sits.** "Seated on the stool behind the drum kit". A standing drummer is a failure.
 - **Straps and cables once.** One guitar strap over the shoulder. Name a cable only if the stage plate shows amplifiers.
 - **Same light as the story.** Use the light of the approved location variant, word for word from the bible.
-- **One member in a single shot.** End with "one figure in one scene". Other members appear only if the prompt names them.
+- **One member in focus, the band still there.** Tim prefers single-member shots with the rest of the band still in their places behind, softly out of focus (13 November 2026). Attach the band master instead of the stage plate as Image 1, and write: "[member] in sharp focus, the other members in their places behind him softly out of focus." Use "one figure in one scene" only when Tim asks for a member alone.
 
 Single-member template:
 
