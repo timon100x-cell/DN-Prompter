@@ -28,3 +28,5 @@ A weathered timber castle stands alone on flat open prairie, a narrow wooden pla
 Try 1 (crimson coat, red fissures): Tim changed the outfit and dropped the fissures. Try 2 (blue robe, hairline cracks): replaced before use. Try 3 (blue robe, smooth skull): skull, robe, fur, chain good; crown came out metal again. Sent to edit.
 Crown edit on try 3: crown turned grey metal. Crown prop prompt (mostly gold paint): came out tarnished silver metal with skull ornaments. Both rejected.
 Crown prop, "homemade crown built from rough pine boards" prompt: approved first try, saved as refs/prop-crown.jpg (shows seven points around the ring rather than five; fine).
+King source image: crown swap edit with prop-crown attached worked first try. Approved as refs/cowboy-royal-robe-source.jpg.
+
