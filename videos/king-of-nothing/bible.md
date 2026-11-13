@@ -1,6 +1,6 @@
 # Video bible: King of Nothing
 
-Started: 13 November 2026. Current stage: 3 Characters.
+Started: 13 November 2026. Current stage: 4 Locations.
 
 ## World
 
@@ -43,7 +43,7 @@ Saved character from `cast/skeleton-cowboy/`. New outfit for this video: royal r
 - **Outfit block:** `He wears a homemade crown of rough pine boards brushed with worn gold house paint, with a row of iron nail heads around the band, sitting directly on his skull, with a few long strands of grey hair beneath it, a faded navy-blue padded doublet with a high frayed collar, a heavy knee-length over-robe of faded grey-blue brocade with wide open sleeves and torn, frayed edges, a moth-eaten black fur collar across the shoulders, a heavy chain of dull tarnished brass medallions over the chest, a worn black leather belt, dark trousers, worn black riding boots and black leather gloves.`
 - **Short anchor:** `the skeleton king in his faded blue brocade robe, black fur collar and flaking gold-painted wooden crown`
 - **Outfit inspiration:** `refs/king-outfit-inspiration.jpg` (Tim's photo; for Tim's eye only, never attach to Grok because it shows a real actor)
-- **Sheet:** `refs/cowboy-royal-robe-sheet` not made yet
+- **Sheet:** `refs/cowboy-royal-robe-sheet.jpg` approved on 13 November 2026 (front, left profile, back, portrait). Source: `refs/cowboy-royal-robe-source.jpg`.
 
 ### The crowd
 

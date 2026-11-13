@@ -30,3 +30,4 @@ Crown edit on try 3: crown turned grey metal. Crown prop prompt (mostly gold pai
 Crown prop, "homemade crown built from rough pine boards" prompt: approved first try, saved as refs/prop-crown.jpg (shows seven points around the ring rather than five; fine).
 King source image: crown swap edit with prop-crown attached worked first try. Approved as refs/cowboy-royal-robe-source.jpg.
 
+King sheet: sheet edit with source + crown attached; back view robe turned into blue tunic fabric, fixed with one edit. Approved as refs/cowboy-royal-robe-sheet.jpg.
