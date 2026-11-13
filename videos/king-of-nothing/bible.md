@@ -108,4 +108,16 @@ Instruments:
 
 | # | Description | Members | Attach | Status |
 | --- | --- | --- | --- | --- |
-| B1 | | | | to do |
+| B1 | Full band, wide (band master) | all five | stage plate, band-lineup | to do |
+| B2 | Full band, low angle | all five | band master (edit) | to do |
+| B3 | Singer, medium | singer | stage plate, singer sheet | to do |
+| B4 | Singer, close-up | singer | singer sheet, stage plate | to do |
+| B5 | Guitarist, medium | guitarist | stage plate, guitarist sheet, prop-guitar | to do |
+| B6 | Guitar fretting hand, extreme close-up | guitarist | prop-guitar, guitarist sheet | to do |
+| B7 | Bassist, medium | bassist | stage plate, bassist sheet, prop-bass | to do |
+| B8 | Banjo player, medium | banjo player | stage plate, banjo sheet, prop-banjo | to do |
+| B9 | Banjo hand, extreme close-up | banjo player | prop-banjo, banjo sheet | to do |
+| B10 | Drummer from the front | drummer | stage plate, drummer sheet, prop-drums | to do |
+| B11 | Sticks and cymbal, extreme close-up | drummer | prop-drums, drummer sheet | to do |
+| B12 | Over a shoulder into the ballroom | one member (pick) | stage plate, that member's sheet | to do |
+| B13 | Band in the burning ballroom | all five | band master + ballroom-burning (edit) | to do |
