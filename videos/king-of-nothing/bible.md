@@ -1,6 +1,6 @@
 # Video bible: King of Nothing
 
-Started: 13 November 2026. Current stage: 1 World.
+Started: 13 November 2026. Current stage: 3 Characters.
 
 ## World
 
@@ -17,11 +17,19 @@ Started: 13 November 2026. Current stage: 1 World.
 
 ## Look line
 
-Status: draft / locked on [date]
+Status: locked on 13 November 2026 (Tim picked test A).
 
-`[look line]`
+Base look line, closes every prompt word for word:
 
-Style pick: `refs/style-pick` (not attached to shots by default)
+`Photoreal film still with natural texture on wood, grass and water, everything in the focal plane sharp.`
+
+Film-feel sentence, added after the base line. Default (picked):
+
+`Shot on 35mm film with fine grain.`
+
+Tim may swap the film feel per shot. Alternatives tested: `Shot on 16mm film with heavy visible grain and soft contrast.` / `Shot on old faded film stock with muted colors and lifted blacks.`
+
+Style pick: `refs/style-pick.jpg` (test A; not attached to shots by default). It also shows the castle exterior exactly as wanted, so it is the first candidate for the castle master in stage 4.
 
 ## Characters
 
