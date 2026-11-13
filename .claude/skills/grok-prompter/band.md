@@ -128,7 +128,7 @@ Build each band shot as in `shots.md`, with these additions:
 - **The drummer sits.** "Seated on the stool behind the drum kit". A standing drummer is a failure.
 - **Straps and cables once.** One guitar strap over the shoulder. Name a cable only if the stage plate shows amplifiers.
 - **Same light as the story.** Use the light of the approved location variant, word for word from the bible.
-- **One member in focus, the band still there.** Tim prefers single-member shots with the rest of the band still in their places behind, softly out of focus (13 November 2026). Attach the band master instead of the stage plate as Image 1, and write: "[member] in sharp focus, the other members in their places behind him softly out of focus." Use "one figure in one scene" only when Tim asks for a member alone.
+- **A solo shot shows only that player.** (Tim, 13 November 2026.) The camera focuses on that one member; the singer is not added to every shot. Other members appear only where they really stand behind or beside the player in the band master, and then softly out of focus. Seen from the front, the drummer sits at the back, so his shots show only him and the back wall of the room, no other members. Write "Only the [member] is in the frame" when nobody stands behind him, or "the [members] behind him softly out of focus" when they do. Attach the band master as Image 1.
 
 Single-member template:
 

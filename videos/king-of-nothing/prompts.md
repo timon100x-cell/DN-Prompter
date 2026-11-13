@@ -50,3 +50,4 @@ B3 blur edit: approved.
 B5, B6: short focus edits of band master, approved first try.
 B7: approved first try. B8: banjo came out with a six-peg guitar headstock and no fifth-string side peg; sent to edit with prop-banjo.
 B8: Tim kept the first result as is.
+B10 try 1: singer's back was in the foreground (my prompt asked for it); Tim: solo shots show only that player, drummer from the front shows only the back wall. Rule updated in band.md.
