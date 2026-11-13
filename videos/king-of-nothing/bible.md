@@ -64,16 +64,23 @@ Unnamed treasure seekers, no sheets. Described per shot.
 - **Light:** day: grey daylight through the slit windows, fog drifting low. Night: candles (variant).
 - **References:** `refs/throne-room-master.jpg` approved 13 Nov 2026 (first try). Also approved: `refs/throne-room-night.jpg` (six candles), `refs/throne-room-corner.jpg` (throne close). `-reverse` only if a shot faces the door.
 
+### Ballroom (band stage)
+
+- **Location block:** `A wide timber ballroom inside the castle, with a broad floor of worn grey planks running to the back wall and a high beamed ceiling. One huge round chandelier made from a wagon wheel and iron hoops hangs from the center of the ceiling with two rings of lit candles, two tall faded crimson curtains hang beside two tall windows in the back wall, a row of plain wooden chairs stands along each side wall, and one tall mirror with a chipped gold-painted frame leans against the right wall.`
+- **Short anchor:** `the timber ballroom with the wagon-wheel chandelier`
+- **Light:** night, warm candlelight from the chandelier, windows dark blue. Burning variant for the fire part of the video (edit of the master).
+- **References:** to come: `ballroom-master`, `ballroom-burning`.
+
 ## Props
 
 - Crown: carved wood, mostly gold paint, chipped at the edges. A later close-up shows the gold paint falling off (the reveal, so keep it mostly gold until then). `refs/prop-crown.jpg` approved 13 Nov 2026: pine boards, gold house paint, iron nail heads, small chips of grey wood. Attach it whenever the crown is in a shot (Grok turns crowns into metal without it).
 
 ## Band
 
-Status: waiting for Tim's band input (stage 4B, see the skill's band.md).
+Status: answers in (13 Nov 2026). Five members, dressed as the king's old castle guard; modern worn dark instruments; instruments, drum kit and one microphone stand, no amps; band alone. Plays in the ballroom at night; a burning ballroom may appear in the fire part.
 
 - **Band identity line:** `a skeleton with a smooth, intact, weathered bone-white skull and empty dark eye sockets`
-- **Stage:** [location], [light variant]. Gear: [where the drum kit, amps and microphone stand are]
+- **Stage:** ballroom, night candlelight. Gear: drum kit centered at the back, one microphone stand at the front center, no amps.
 - **References:** `refs/band-lineup`, `refs/stage-plate`, `refs/band-master`
 
 | Member | Member block | Instrument | Hand | Position | Short anchor | Sheet |
