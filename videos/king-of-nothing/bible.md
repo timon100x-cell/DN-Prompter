@@ -51,11 +51,18 @@ Unnamed treasure seekers, no sheets. Described per shot.
 
 ## Locations
 
-### [Location name]
+### Castle exterior
 
-- **Location block:** `...`
-- **Short anchor:** `...`
-- **References:** `refs/...-master`, `refs/...-reverse`, `refs/...-corner`
+- **Location block:** `A weathered timber castle stands alone on flat open prairie, a narrow wooden plank bridge crossing a small still moat to its tall closed front gate. The castle is built of grey weathered logs and planks with patches of cracked whitewash, with five towers under steep conical roofs of faded crimson wooden shingles, the tallest tower centered above the gate.`
+- **Short anchor:** `the timber castle with its red-roofed towers, moat and plank bridge`
+- **References:** `refs/style-pick.jpg` is the master (day, fog). To come: `castle-burning` (night, edit of master), `castle-ruins` (edit of master).
+
+### Throne room
+
+- **Location block:** `A tall, bare timber hall inside the castle, empty except for one old wooden throne on a low plank platform against the back wall. The throne is a high-backed chair of dark weathered oak with traces of worn gold paint on its arms, a long faded crimson banner hangs on the back wall directly behind it, two narrow slit windows sit high in the back wall, one on each side of the banner, and a heavy plank door barred with a wooden beam is set in the left wall, over a floor of wide grey boards.`
+- **Short anchor:** `the bare timber throne hall with the crimson banner and slit windows`
+- **Light:** day: grey daylight through the slit windows, fog drifting low. Night: candles (variant).
+- **References:** to come: `throne-room-master`, `-reverse`, `-corner`, `-night`.
 
 ## Props
 
