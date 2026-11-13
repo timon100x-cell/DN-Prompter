@@ -37,3 +37,4 @@ Throne room night and corner edits: both approved first try.
 
 Castle burning and ruins edits of style-pick: both approved first try.
 
+Ballroom master, ballroom burning, band line-up: all approved first try.

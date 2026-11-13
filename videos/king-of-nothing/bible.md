@@ -69,7 +69,7 @@ Unnamed treasure seekers, no sheets. Described per shot.
 - **Location block:** `A wide timber ballroom inside the castle, with a broad floor of worn grey planks running to the back wall and a high beamed ceiling. One huge round chandelier made from a wagon wheel and iron hoops hangs from the center of the ceiling with two rings of lit candles, two tall windows in the back wall are each framed by a pair of faded crimson curtains, a row of plain wooden chairs stands along each side wall, and one tall mirror with a chipped gold-painted frame leans against the right wall.`
 - **Short anchor:** `the timber ballroom with the wagon-wheel chandelier`
 - **Light:** night, warm candlelight from the chandelier, windows dark blue. Burning variant for the fire part of the video (edit of the master).
-- **References:** `refs/ballroom-master.jpg` approved 13 Nov 2026 (first try; Grok gave a two-tier wagon-wheel chandelier and a curtain pair per window, kept). To come: `ballroom-burning`.
+- **References:** `refs/ballroom-master.jpg` approved 13 Nov 2026 (first try; Grok gave a two-tier wagon-wheel chandelier and a curtain pair per window, kept). Also approved: `refs/ballroom-burning.jpg` (curtains consumed by the fire, chandelier still lit).
 
 ## Props
 
@@ -81,7 +81,7 @@ Status: answers in (13 Nov 2026). Five members, dressed as the king's old castle
 
 - **Band identity line:** `a skeleton with a smooth, intact, weathered bone-white skull and empty dark eye sockets`
 - **Stage:** ballroom, night candlelight. Gear: drum kit centered at the back, one microphone stand at the front center, no amps.
-- **References:** `refs/band-lineup`, `refs/stage-plate`, `refs/band-master`
+- **References:** `refs/band-lineup.jpg` approved 13 Nov 2026 (first try; order and headwear right, heights came out nearly equal). To come: instruments, `refs/stage-plate`, `refs/band-master`, member sheets.
 
 | Member | Member block | Instrument | Hand | Position | Short anchor | Sheet |
 | --- | --- | --- | --- | --- | --- | --- |
