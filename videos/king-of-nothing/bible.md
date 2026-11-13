@@ -112,8 +112,8 @@ Instruments:
 | B2 | Full band, low angle | all five | band master (edit) | approved: shots/B2.jpg |
 | B3 | Singer, medium | singer | band master, singer sheet, then blur edit | approved: shots/B3.jpg |
 | B4 | Singer, close-up | singer | band master (edit, Tim's own prompt: focus on the singer's head) | approved: shots/B4.jpg |
-| B5 | Guitarist, medium | guitarist | stage plate, guitarist sheet, prop-guitar | to do |
-| B6 | Guitar fretting hand, extreme close-up | guitarist | prop-guitar, guitarist sheet | to do |
+| B5 | Guitarist, medium | guitarist | stage plate, guitarist sheet, prop-guitar | approved: shots/B5.jpg (short focus edit of band master) |
+| B6 | Guitar fretting hand, extreme close-up | guitarist | prop-guitar, guitarist sheet | approved: shots/B6.jpg (short focus edit of band master) |
 | B7 | Bassist, medium | bassist | stage plate, bassist sheet, prop-bass | to do |
 | B8 | Banjo player, medium | banjo player | stage plate, banjo sheet, prop-banjo | to do |
 | B9 | Banjo hand, extreme close-up | banjo player | prop-banjo, banjo sheet | to do |
