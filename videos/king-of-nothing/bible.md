@@ -21,7 +21,9 @@ Status: locked on 13 November 2026 (Tim picked test A).
 
 Base look line, closes every prompt word for word:
 
-`Photoreal film still with natural texture on wood, grass and water, everything in the focal plane sharp.`
+`Photoreal film still with natural surface texture, everything in the focal plane sharp.`
+
+(Changed 13 Nov 2026 from "natural texture on wood, grass and water", which named scene content and could pull grass and water into studio sheets.)
 
 Film-feel sentence, added after the base line. Default (picked):
 
