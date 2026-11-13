@@ -116,6 +116,8 @@ Band shots get their own list in the bible, numbered B1, B2 and so on, so they n
 | Sticks and cymbal, extreme close-up | drum kit, drummer sheet | One stick just above the cymbal |
 | Over a shoulder into the room | stage plate, one member sheet | Shows the place from the stage |
 
+Tim's discovery (King of Nothing, 13 November 2026): a close-up made as a plain edit of the approved band master ("focus on the head of the lead singer") came out better than a new image built from sheet and stage plate, with natural background blur and the band still there. Try that first for close-ups and medium shots: an edit of the band master, plus the member's instrument image when the instrument must be exact.
+
 Single-member shots are the reliable ones. Keep full-band shots to a few. In the kit table, "stage plate" for a single-member shot means the band master once it is approved (see the rule on focus below).
 
 Build each band shot as in `shots.md`, with these additions:

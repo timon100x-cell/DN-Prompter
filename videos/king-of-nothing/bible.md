@@ -111,7 +111,7 @@ Instruments:
 | B1 | Full band, wide (band master) | all five | stage plate, band-lineup | approved: refs/band-master.jpg |
 | B2 | Full band, low angle | all five | band master (edit) | approved: shots/B2.jpg |
 | B3 | Singer, medium | singer | stage plate, singer sheet | to do |
-| B4 | Singer, close-up | singer | singer sheet, stage plate | to do |
+| B4 | Singer, close-up | singer | band master (edit, Tim's own prompt: focus on the singer's head) | approved: shots/B4.jpg |
 | B5 | Guitarist, medium | guitarist | stage plate, guitarist sheet, prop-guitar | to do |
 | B6 | Guitar fretting hand, extreme close-up | guitarist | prop-guitar, guitarist sheet | to do |
 | B7 | Bassist, medium | bassist | stage plate, bassist sheet, prop-bass | to do |

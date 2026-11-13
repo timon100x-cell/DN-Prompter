@@ -45,3 +45,4 @@ Guitarist sheet: profile fix edit worked, approved.
 Stage plate (ballroom-master + prop-drums): approved first try; walls came out as timber-framed plaster instead of planks.
 Singer showman sheet: outfit-change edit of the old sheet worked first try.
 Band master: singer outfit swap edit (band-master + new singer sheet) worked first try; sheet's sleeve fringe became hem fringe. B2 low-angle edit of band master: approved first try, shots/B2.jpg.
+B3 try 1 (band master + singer sheet): good but background barely blurred; sent to edit. B4: Tim's own edit of band master "focus on the head of the lead singer": approved, better than a fresh build.
