@@ -10,7 +10,21 @@ Work through the list in order unless Tim names a shot. For speed he can ask for
 
 Band shots (B1, B2, ...) are a separate list in the bible. Build them as below, plus the extra rules in `band.md`.
 
-## Building a shot prompt
+## Shots with a character in a location: plate, then add
+
+Use the two-step method in `grok-rules.md` ("Putting a character in a location") for every shot that puts a sheet character in a location. Check the bible's plate table first; if no plate exists for that camera position, write the plate prompt and get it approved before the add prompt.
+
+Add template (attach 1 plate, 2 sheet, 3 prop if close to camera):
+
+```
+Add [short anchor] from Image 2 to Image 1. [He/She] [pose just before the action, where in the plate, facing what]. [Size against a landmark in the plate.] [Anything held or changed.] Use Image 2 only for [his/her] [face, headwear] and clothing, not its light or pose. Light [him/her] with the [light] already in Image 1, with a soft shadow on the ground under [his/her] feet[ and fog around the ankles]. Keep [landmarks], the camera position and the framing of Image 1 exactly as they are.
+```
+
+The add prompt carries no look line and no composition sentence: the plate already has them.
+
+## Building a shot prompt (no plate)
+
+Use this for shots without a sheet character, or where Tim wants a fresh build.
 
 1. Decide the references: the location view that matches the camera direction (master, reverse or corner), then the sheet of each character in frame, then a prop only if it is in frame. Two or three in total.
 2. Write the role lines, one per attached image.

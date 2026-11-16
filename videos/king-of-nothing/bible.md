@@ -94,7 +94,15 @@ Unnamed treasure seekers, no sheets. Described per shot.
 - **Light:** night, warm candlelight from the chandelier, windows dark blue. Burning variant for the fire part of the video (edit of the master).
 - **References:** `refs/ballroom-master.jpg` approved 13 Nov 2026 (first try; Grok gave a two-tier wagon-wheel chandelier and a curtain pair per window, kept). Also approved: `refs/ballroom-burning.jpg` (curtains consumed by the fire, chandelier still lit).
 
-## Props
+### Plates (camera positions)
+
+| Plate | View | Size note | Used by |
+| --- | --- | --- | --- |
+| `refs/castle-gate-close.jpg` | gate straight on, a few steps away | gate doors twice a man's height | 9 |
+| Tim's side view (not saved yet) | gate from the left, wall running to the round tower | merchant half the gate's height, hat at the lower edge of the hatch | 5, 7 |
+| `refs/castle-gate-night.jpg` | gate straight on at night | as gate close | 8 |
+
+
 
 - Crown: carved wood, mostly gold paint, chipped at the edges. A later close-up shows the gold paint falling off (the reveal, so keep it mostly gold until then). `refs/prop-crown.jpg` approved 13 Nov 2026: pine boards, gold house paint, iron nail heads, small chips of grey wood. Attach it whenever the crown is in a shot (Grok turns crowns into metal without it).
 
@@ -131,7 +139,7 @@ Draft 16 Nov 2026, built from Tim's ideas plus Claude's suggestions; Tim to conf
 | 2 | Intro | The king alone on his throne, crown on, still | throne room | king | Tim | draft |
 | 3 | Verse 1 | Villagers whispering and pointing toward the distant castle | village | villagers | Claude | draft |
 | 4 | Pre-chorus | The merchant crossing the plank bridge with a closed chest | castle exterior | merchant | Tim | draft |
-| 5 | Pre-chorus | The merchant at the closed gate, holding up the chest, talking to the hatch | castle gate | merchant | Tim | draft |
+| 5 | Pre-chorus | The merchant at the closed gate, holding up the chest, talking to the hatch | castle gate | merchant | Tim | approved, shots/05.jpg |
 | 6 | Pre-chorus | The knight walking up to the gate, sword at his side | castle exterior | knight | Tim | draft |
 | 7 | Pre-chorus | The knight at the gate, hand on his chest, speaking of honor | castle gate | knight | Tim | draft |
 | 8 | Pre-chorus | The spy creeping along the wall at night, peering through a gap in the planks | castle exterior night | spy | Tim | draft |

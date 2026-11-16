@@ -61,6 +61,19 @@ Four to six plain sentences, always in this order. With references attached, the
 - If a fix fails, point at the exact part ("the left glove", "the sign above the door"). Repeating "more realistic" does nothing.
 - A different time of day or weather for a location is an edit of the location master, not a new generation.
 
+## Putting a character in a location
+
+Tested 16 Nov 2026 (King of Nothing shot 5). Writing one prompt that sets a new camera angle, places a character and lights him at the same time fails: Grok rebuilds the building, keeps the sheet's studio light and makes the person too big. Split the work:
+
+1. **Empty plate first.** Make the location from the exact camera position of the shot, with nobody in it (an edit of the master that moves the camera, see `locations.md`). Approve it on its own. One plate can serve several shots.
+2. **Add the character as an edit of the plate.** Attach the plate first, the sheet second. Open with "Add [anchor] from Image 2 to Image 1", say where he stands and what he does, and end with "Keep [the landmarks], the camera position and the framing of Image 1 exactly as they are."
+3. **Size against something in the plate:** "He is half as tall as the gate doors, and his hat reaches the lower edge of the hatch."
+4. **Light from the plate, not the sheet:** "Use Image 2 only for his face, hat and clothing, not its light or pose. Light him with the [light] already in Image 1, with a soft shadow on the ground under his feet."
+5. **If he still looks pasted on:** one edit that relights only him ("Match the light on the merchant to the grey daylight on the wall, and add a soft contact shadow under his shoes. Keep everything else exactly as it is.").
+6. **Closer shots** of the same moment are short focus edits of the approved wider shot, as with the band.
+
+Tim works in a fresh Grok chat for each step, so Grok starts from the attached images and not from its own last result.
+
 ## Start frames for video
 
 Tim's stills become the first frame of a Grok video clip, so every shot prompt describes a start frame:

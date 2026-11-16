@@ -51,3 +51,6 @@ B5, B6: short focus edits of band master, approved first try.
 B7: approved first try. B8: banjo came out with a six-peg guitar headstock and no fifth-string side peg; sent to edit with prop-banjo.
 B8: Tim kept the first result as is.
 B10 try 1: singer's back was in the foreground (my prompt asked for it); Tim: solo shots show only that player, drummer from the front shows only the back wall. Rule updated in band.md.
+
+Shot 5, tries 1 and 2 (one prompt for angle, character and light): merchant too big, studio-lit, gate rebuilt. Tim: "the ratio man and gate is not good... lighting doesnt match".
+Shot 5, try 3 (plate then add): side view of the gate made first by Tim, merchant added with "Add the merchant from Image 2 to Image 1... half as tall as the gate doors... Light him with the flat grey daylight already in Image 1". Approved, shots/05.jpg. New method written into grok-rules.md, shots.md, locations.md.

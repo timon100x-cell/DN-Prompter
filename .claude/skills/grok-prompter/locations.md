@@ -56,6 +56,16 @@ Change the time to night, lit by [sources]. Keep the layout, landmarks, surfaces
 
 Save as `refs/<location>-master`, `-reverse`, `-corner`, `-night` and so on.
 
+### Plates (camera positions for shots)
+
+A plate is the location from one shot's exact camera position, with nobody in it. Make one before any shot that adds a character there (see `shots.md`). Write it as the camera moving to a named spot, list the landmarks that must stay, and give a size note against a person:
+
+```
+Move the camera to [named spot], [height and direction it looks]. Keep the same [landmarks with shape and count], surfaces and light exactly as they are. [The door is about twice the height of a man.] Nobody in the scene.
+```
+
+Save as `refs/plate-<location>-<view>` and add it to the bible's plate table with its size note.
+
 ## Props
 
 A recurring object (a guitar, a letter, a lantern) gets one clean reference: the object alone on the plain light grey background, even light, whole object in frame. Save as `refs/prop-<name>`. Attach it only to shots where the prop is in frame.
