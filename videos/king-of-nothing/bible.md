@@ -47,12 +47,12 @@ Saved character from `cast/skeleton-cowboy/`. New outfit for this video: royal r
 
 ### The visitors (pre-chorus)
 
-Living people, not skeletons (my recommendation, so only the king and the band are bone). Proposed 16 Nov 2026, waiting on Tim's sheets.
+Living people, not skeletons (my recommendation, so only the king and the band are bone). Proposed 16 Nov 2026. Merchant changed the same day to a rich, fat medieval merchant in flamboyant colours (Tim). No jewellery, so nothing of value; no crimson (roofs only).
 
 **Merchant**
-- **Identity block:** `A plump middle-aged man with a round ruddy face, small sharp eyes behind round wire-rimmed spectacles, and a thin grey moustache.`
-- **Outfit block:** `He wears a battered brown bowler hat, a long dark brown frock coat over a faded green brocade waistcoat, a white shirt, grey striped trousers and worn black shoes.`
-- **Short anchor:** `the plump merchant in the bowler hat and green waistcoat`
+- **Identity block:** `A fat, rich middle-aged man with a round ruddy face, heavy jowls, small sharp eyes and a thin grey moustache.`
+- **Outfit block:** `He wears a wide floppy hat of deep purple velvet with a long dyed orange feather, a voluminous knee-length robe of saffron-yellow silk with wide scalloped sleeves lined in emerald green, a brown fur collar, a broad teal sash around his large belly, striped green-and-purple hose and pointed soft leather shoes.`
+- **Short anchor:** `the fat merchant in the purple feathered hat and saffron-yellow robe`
 - **Prop:** a small wooden chest with iron bands, always closed (nothing of value shown).
 - **Sheet:** `refs/merchant-sheet.jpg` (to do)
 
@@ -60,13 +60,13 @@ Living people, not skeletons (my recommendation, so only the king and the band a
 - **Identity block:** `A tall, broad man in his forties with a weathered square face, a short grey beard, close-cropped grey hair and a pale scar through his left eyebrow.`
 - **Outfit block:** `He wears a dented steel breastplate over a faded white surcoat, chain-mail sleeves, brown leather gloves, a sword in a plain leather scabbard on his left hip and worn brown riding boots.`
 - **Short anchor:** `the grey-bearded knight in the dented breastplate and white surcoat`
-- **Sheet:** `refs/knight-sheet.jpg` (to do)
+- **Sheet:** `refs/knight-sheet.jpg` (to do). Source: `refs/knight-source.jpg` approved 16 Nov (surcoat came out pale beige, fine).
 
 **Spy**
 - **Identity block:** `A thin young man with a narrow pale face, sharp cheekbones, dark stubble and dark watchful eyes.`
 - **Outfit block:** `He wears a deep charcoal hood, a long charcoal wool cloak, a black scarf pulled down around his neck, a dark leather jerkin, black gloves, dark trousers and soft black boots.`
 - **Short anchor:** `the thin spy in the charcoal hood and cloak`
-- **Sheet:** `refs/spy-sheet.jpg` (to do)
+- **Sheet:** `refs/spy-sheet.jpg` (to do). Source: `refs/spy-source.jpg` approved 16 Nov.
 
 ### The crowd
 
