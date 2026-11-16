@@ -180,11 +180,11 @@ Agreed with Tim 16 Nov 2026 (third version, 8 shots of about 3 s). All night, ti
 
 ### Verse 1 (daylight, before the fire)
 
-Agreed with Tim 16 Nov 2026: introduce the castle by day. One shot per lyric line.
+Agreed with Tim 16 Nov 2026: introduce the castle by day. One shot per lyric line. Draft: Tim reviews shots V2 to V8 before prompts are final.
 
 | # | Line | Shot | Built from |
 | --- | --- | --- | --- |
-| V1 | Have you heard about the castle? | Two villagers whispering, castle small in the fog behind | fresh image |
+| V1 | Have you heard about the castle? | Close-up: the lead singer singing the first line | focus edit of band-master |
 | V2 | Standing in the meadow | The castle in the fog, wide | style-pick as is |
 | V3 | A king upon his throne | The king alone on his throne by day | add king to throne-room-master |
 | V4 | Who guards a wealth unknown | The barred door of the throne hall, close | edit of throne-room-master |

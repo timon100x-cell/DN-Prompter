@@ -41,7 +41,7 @@ Work through them in order. Do not move on until Tim approves the current stage.
 | 4B Band (optional) | `band.md` | The band has a line-up, sheets, instruments, a stage plate and a band master, or Tim said this video has no band |
 | 5 Shots | `shots.md` | Every shot on Tim's list is approved, story shots and band shots. A shot with a character is built in two steps: an empty plate of that camera angle, then the character added to it in a fresh Grok chat |
 
-Tim brings his own shot list. Do not invent story or restructure his shots. If a shot is unclear, ask one question.
+Tim brings his own shot list. Do not invent story or restructure his shots. If a shot is unclear, ask one question. When Tim asks for ideas or a new sequence, show the plan first (one line per shot) and wait for his OK before writing any prompts.
 
 Most videos also have frames of a skeleton metal band playing in one of the story's locations. The band is different in every video, so ask about it every time (stage 4B). Band shots are numbered B1, B2 and so on, apart from the story shots.
 
