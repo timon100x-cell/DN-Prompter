@@ -87,6 +87,12 @@ Unnamed treasure seekers, no sheets. Described per shot.
 - **Light:** day: grey daylight through the slit windows, fog drifting low. Night: candles (variant).
 - **References:** `refs/throne-room-master.jpg` approved 13 Nov 2026 (first try). Also approved: `refs/throne-room-night.jpg` (six candles), `refs/throne-room-corner.jpg` (throne close). `-reverse` only if a shot faces the door.
 
+### Entrance hall (behind the gate)
+
+Added 16 Nov 2026 (Tim). A long timber hallway from the inside of the gate to a massive double door, open, with the throne room seen through it. That door is the throne room's main door, in the wall facing the throne (the barred door in the left wall is a side door).
+
+- **References:** `refs/entrance-hall-master.jpg` (to do; made with throne-room-master attached).
+
 ### Ballroom (band stage)
 
 - **Location block:** `A wide timber ballroom inside the castle, with a broad floor of worn grey planks running to the back wall and a high beamed ceiling. One huge round chandelier made from a wagon wheel and iron hoops hangs from the center of the ceiling with two rings of lit candles, two tall windows in the back wall are each framed by a pair of faded crimson curtains, a row of plain wooden chairs stands along each side wall, and one tall mirror with a chipped gold-painted frame leans against the right wall.`
