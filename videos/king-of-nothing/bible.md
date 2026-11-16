@@ -162,6 +162,20 @@ Draft 16 Nov 2026, built from Tim's ideas plus Claude's suggestions; Tim to conf
 | 23 | Final chorus | The one old wooden throne standing unburnt in the ruins | castle ruins | - | lyrics | draft |
 | 24 | Outro | The king seated on that throne in the ruins, crown now bare wood | castle ruins | king | Claude | draft |
 
+
+### Intro (0 to 28 s, instrumental)
+
+Agreed with Tim 16 Nov 2026. Replaces draft shots 1 and 2.
+
+| # | Time | Shot | Built from |
+| --- | --- | --- | --- |
+| I1 | 0-5 s | Fog reveal from low in the grass, towers half hidden | edit of style-pick |
+| I2 | 5-10 s | Castle tiny and alone on the prairie | edit of style-pick |
+| I3 | 10-15 s | Gate details: iron straps, closed hatch | edit of castle-gate-close |
+| I4 | 15-20 s | Extreme close-up of the crown on the skull | focus edit of approved I5 |
+| I5 | 20-25 s | The king alone on his throne by candlelight | add king to throne-room-night |
+| I6 | 25-28 s | The hatch opens, eye sockets stare into the lens (vocals start) | add king to castle-gate-close, then focus edit |
+
 ## Band shots
 
 | # | Description | Members | Attach | Status |
