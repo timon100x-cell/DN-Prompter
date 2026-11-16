@@ -141,7 +141,7 @@ Draft 16 Nov 2026, built from Tim's ideas plus Claude's suggestions; Tim to conf
 | 4 | Pre-chorus | The merchant crossing the plank bridge with a closed chest | castle exterior | merchant | Tim | draft |
 | 5 | Pre-chorus | The merchant at the closed gate, holding up the chest, talking to the hatch | castle gate | merchant | Tim | approved, shots/05.jpg |
 | 6 | Pre-chorus | The knight walking up to the gate, sword at his side | castle exterior | knight | Tim | draft |
-| 7 | Pre-chorus | The knight at the gate, hand on his chest, speaking of honor | castle gate | knight | Tim | draft |
+| 7 | Pre-chorus | The knight at the gate, hand on his chest, speaking of honor | castle gate | knight | Tim | approved, shots/07.jpg |
 | 8 | Pre-chorus | The spy creeping along the wall at night, peering through a gap in the planks | castle exterior night | spy | Tim | draft |
 | 9 | Pre-chorus | The king's empty eye sockets in the small hatch of the gate: no | castle gate | king | Tim | draft |
 | 10 | Pre-chorus | Rejected: the merchant walking away over the bridge, chest still in his arms | castle exterior | merchant | Tim | draft |
