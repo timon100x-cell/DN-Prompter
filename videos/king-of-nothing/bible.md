@@ -190,7 +190,7 @@ Agreed with Tim 16 Nov 2026: introduce the castle by day. One shot per lyric lin
 | V4 | Who guards a wealth unknown | The barred door of the throne hall, close | edit of throne-room-master |
 | V5 | They say he hides a fortune | Villagers round a tavern table, one telling the tale | fresh image |
 | V6 | A king's worth of gold | The merchant on the prairie, eyeing the castle | add merchant to plate-castle-three-quarter-right |
-| V7 | But no one gets inside | The closed gate, straight on | castle-gate-close as is |
+| V7 | But no one gets inside | Bird's-eye: the lone walled castle, no way in | edit of style-pick |
 | V8 | No matter what they're told | A dark figure with a crown at the gate-tower window | edit of style-pick (low angle) |
 
 ## Band shots
