@@ -39,7 +39,7 @@ Work through them in order. Do not move on until Tim approves the current stage.
 | 3 Characters | `characters.md` | Every character has a block and an approved sheet |
 | 4 Locations | `locations.md` | Every location has a block and approved reference images |
 | 4B Band (optional) | `band.md` | The band has a line-up, sheets, instruments, a stage plate and a band master, or Tim said this video has no band |
-| 5 Shots | `shots.md` | Every shot on Tim's list is approved, story shots and band shots |
+| 5 Shots | `shots.md` | Every shot on Tim's list is approved, story shots and band shots. A shot with a character is built in two steps: an empty plate of that camera angle, then the character added to it in a fresh Grok chat |
 
 Tim brings his own shot list. Do not invent story or restructure his shots. If a shot is unclear, ask one question.
 

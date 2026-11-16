@@ -37,3 +37,20 @@ Throne room night and corner edits: both approved first try.
 
 Castle burning and ruins edits of style-pick: both approved first try.
 
+Ballroom master, ballroom burning, band line-up: all approved first try.
+Instruments: guitar, bass, banjo approved first try (counts right). Drum kit: stool came out in front of the kit and the far-right cymbal came out as a second hi-hat pair; sent to edit.
+Drum kit: Tim approved the first image as is (stool reads as behind the kit). No edit.
+Band sheets (edits of band-lineup): drummer, bassist, banjo approved first try. Singer: seam lines and spots on bare skull, sent to edit. Guitarist: profile view wore the banjo player's quilted jacket, sent to edit.
+Guitarist sheet: profile fix edit worked, approved.
+Stage plate (ballroom-master + prop-drums): approved first try; walls came out as timber-framed plaster instead of planks.
+Singer showman sheet: outfit-change edit of the old sheet worked first try.
+Band master: singer outfit swap edit (band-master + new singer sheet) worked first try; sheet's sleeve fringe became hem fringe. B2 low-angle edit of band master: approved first try, shots/B2.jpg.
+B3 try 1 (band master + singer sheet): good but background barely blurred; sent to edit. B4: Tim's own edit of band master "focus on the head of the lead singer": approved, better than a fresh build.
+B3 blur edit: approved.
+B5, B6: short focus edits of band master, approved first try.
+B7: approved first try. B8: banjo came out with a six-peg guitar headstock and no fifth-string side peg; sent to edit with prop-banjo.
+B8: Tim kept the first result as is.
+B10 try 1: singer's back was in the foreground (my prompt asked for it); Tim: solo shots show only that player, drummer from the front shows only the back wall. Rule updated in band.md.
+
+Shot 5, tries 1 and 2 (one prompt for angle, character and light): merchant too big, studio-lit, gate rebuilt. Tim: "the ratio man and gate is not good... lighting doesnt match".
+Shot 5, try 3 (plate then add): side view of the gate made first by Tim, merchant added with "Add the merchant from Image 2 to Image 1... half as tall as the gate doors... Light him with the flat grey daylight already in Image 1". Approved, shots/05.jpg. New method written into grok-rules.md, shots.md, locations.md.

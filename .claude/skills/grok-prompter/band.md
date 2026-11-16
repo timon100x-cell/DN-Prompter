@@ -89,10 +89,12 @@ Attach the drum kit image as Image 2 when the kit matters, with the job line "Im
 
 The full band in position. This is the hardest image of the video, so it is made and approved once, and other full-band angles are edits of it.
 
+Never ask for the members to stand "in position" facing the camera: with the line-up attached, Grok copies its straight row and flat light and the band looks pasted in (King of Nothing, 13 November 2026). Stagger the depths, turn members toward each other, and ask for light falloff and floor shadows.
+
 ```
 Settings: 16:9, 2K. Attach in this order: 1 stage plate, 2 line-up
 
-Image 1 is the stage: keep its layout, gear positions and lighting. Image 2 is the band line-up: use it for each member's skull, headwear and clothing only. [Number] skeleton musicians stand in position on the stage just before the first note: [singer anchor] at the front center with one hand on the microphone stand, [guitarist anchor] at the left with a six-string electric guitar, [bassist anchor] at the right with a four-string bass guitar, [drummer anchor] seated behind the drum kit at the back with both sticks raised. [Light from the location's approved variant, every member clearly readable.] [Colors.] Wide shot at eye level showing the whole band head to foot, [number] figures in one scene. [Look line]
+Image 1 is the stage: keep its room, gear positions and lighting. Image 2 is the band line-up: use it for each member's skull, headwear and clothing only, not their poses or arrangement. [Number] skeleton musicians are spread across the stage at different depths in the quiet second before the first note: [singer anchor] at the microphone stand in the foreground center, gripping it with one hand; [guitarist anchor] further back at the left with his weight on one leg, [guitar block] low on its strap; [bassist anchor] at the right, half turned toward the drummer, holding [bass block]; and [drummer anchor] seated on the stool behind the drum kit at the back with both sticks raised. [Handedness sentence.] [Light from the location's approved variant, falling off toward the walls, each figure casting a soft shadow on the floor, every member still readable.] [Colors.] Wide shot from slightly off center at chest height, the singer large in the foreground and the band receding behind him, [number] figures in one scene. [Look line]
 ```
 
 Save as `refs/band-lineup`, `refs/band-<member>-sheet`, `refs/prop-<instrument>`, `refs/stage-plate`, `refs/band-master`.
@@ -114,7 +116,9 @@ Band shots get their own list in the bible, numbered B1, B2 and so on, so they n
 | Sticks and cymbal, extreme close-up | drum kit, drummer sheet | One stick just above the cymbal |
 | Over a shoulder into the room | stage plate, one member sheet | Shows the place from the stage |
 
-Single-member shots are the reliable ones. Keep full-band shots to a few.
+Tim's discovery (King of Nothing, 13 November 2026): a close-up made as a plain edit of the approved band master ("focus on the head of the lead singer") came out better than a new image built from sheet and stage plate, with natural background blur and the band still there. Tim wants these prompts short: one or two sentences ("Focus on the guitarist ..."), no role lines. For players he prefers a passionate playing pose over the moment before the note, frozen sharp with no motion blur. Try that first for close-ups and medium shots: an edit of the band master, plus the member's instrument image when the instrument must be exact.
+
+Single-member shots are the reliable ones. Keep full-band shots to a few. In the kit table, "stage plate" for a single-member shot means the band master once it is approved (see the rule on focus below).
 
 Build each band shot as in `shots.md`, with these additions:
 
@@ -124,7 +128,7 @@ Build each band shot as in `shots.md`, with these additions:
 - **The drummer sits.** "Seated on the stool behind the drum kit". A standing drummer is a failure.
 - **Straps and cables once.** One guitar strap over the shoulder. Name a cable only if the stage plate shows amplifiers.
 - **Same light as the story.** Use the light of the approved location variant, word for word from the bible.
-- **One member in a single shot.** End with "one figure in one scene". Other members appear only if the prompt names them.
+- **A solo shot shows only that player.** (Tim, 13 November 2026.) The camera focuses on that one member; the singer is not added to every shot. Other members appear only where they really stand behind or beside the player in the band master, and then softly out of focus. Seen from the front, the drummer sits at the back, so his shots show only him and the back wall of the room, no other members. Write "Only the [member] is in the frame" when nobody stands behind him, or "the [members] behind him softly out of focus" when they do. Attach the band master as Image 1.
 
 Single-member template:
 
