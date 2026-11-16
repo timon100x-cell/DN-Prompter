@@ -165,15 +165,18 @@ Draft 16 Nov 2026, built from Tim's ideas plus Claude's suggestions; Tim to conf
 
 ### Intro (0 to 25 s, instrumental)
 
-Agreed with Tim 16 Nov 2026 (second version, replaces the 28 s I1-I6 plan). All night, so it ties forward to the torches.
+Agreed with Tim 16 Nov 2026 (third version, 8 shots of about 3 s). All night, ties forward to the torches.
 
-| # | Time | Shot | Built from |
-| --- | --- | --- | --- |
-| I1 | 0-5 s | Close-up: one torch moving through the fog | fresh image |
-| I2 | 5-10 s | Over the shoulder of a torch-bearer, the castle dark in the fog far off | edit of style-pick (night) |
-| I3 | 10-15 s | The king alone on his throne by candlelight | add king to throne-room-night |
-| I4 | 15-20 s | Extreme close-up of the crown and eye sockets | focus edit of approved I3 |
-| I5 | 20-25 s | The hatch at night, the skull staring into the lens, lit by torchlight (vocals start) | add king to castle-gate-night, then focus edit |
+| # | Shot | Built from |
+| --- | --- | --- |
+| I1 | Close-up: one torch moving through the fog | fresh image |
+| I2 | A line of torches far off in the fog, coming closer | fresh image |
+| I3 | The bridge from the side in fog, at night | Tim's bridge close-up, night edit |
+| I4 | Over the shoulder of a torch-bearer, the castle dark in the fog far off | edit of style-pick (night) |
+| I5 | The closed hatch at night, torchlight on the planks | edit of castle-gate-night |
+| I6 | The king alone on his throne by candlelight | add king to throne-room-night |
+| I7 | Extreme close-up of the crown | focus edit of I6, relit |
+| I8 | The hatch open, the skull staring into the lens (vocals start) | add king to castle-gate-night, then focus edit |
 
 ## Band shots
 
