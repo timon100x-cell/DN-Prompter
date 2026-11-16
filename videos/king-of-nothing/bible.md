@@ -178,6 +178,21 @@ Agreed with Tim 16 Nov 2026 (third version, 8 shots of about 3 s). All night, ti
 | I7 | Extreme close-up of the crown | focus edit of I6, relit |
 | I8 | Inside the dark gatehouse: the king stands behind the closed gate, seen from behind, torchlight leaking through the planks (vocals start) | fresh image, king sheet + crown |
 
+### Verse 1 (daylight, before the fire)
+
+Agreed with Tim 16 Nov 2026: introduce the castle by day. One shot per lyric line.
+
+| # | Line | Shot | Built from |
+| --- | --- | --- | --- |
+| V1 | Have you heard about the castle? | Two villagers whispering, castle small in the fog behind | fresh image |
+| V2 | Standing in the meadow | The castle in the fog, wide | style-pick as is |
+| V3 | A king upon his throne | The king alone on his throne by day | add king to throne-room-master |
+| V4 | Who guards a wealth unknown | The barred door of the throne hall, close | edit of throne-room-master |
+| V5 | They say he hides a fortune | Villagers round a tavern table, one telling the tale | fresh image |
+| V6 | A king's worth of gold | The merchant on the prairie, eyeing the castle | add merchant to plate-castle-three-quarter-right |
+| V7 | But no one gets inside | The closed gate, straight on | castle-gate-close as is |
+| V8 | No matter what they're told | A dark figure with a crown at the gate-tower window | edit of style-pick (low angle) |
+
 ## Band shots
 
 | # | Description | Members | Attach | Status |
