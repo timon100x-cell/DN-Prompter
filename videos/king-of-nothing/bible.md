@@ -54,7 +54,7 @@ Living people, not skeletons (my recommendation, so only the king and the band a
 - **Outfit block:** `He wears a wide floppy hat of deep purple velvet with a long dyed orange feather, a voluminous knee-length robe of saffron-yellow silk with wide scalloped sleeves lined in emerald green, a brown fur collar, a broad teal sash around his large belly, striped green-and-purple hose and pointed soft leather shoes.`
 - **Short anchor:** `the fat merchant in the purple feathered hat and saffron-yellow robe`
 - **Prop:** a small wooden chest with iron bands, always closed (nothing of value shown).
-- **Sheet:** `refs/merchant-sheet.jpg` (to do)
+- **Sheet:** `refs/merchant-sheet.jpg` (to do). Source: `refs/merchant-source.jpg` approved 16 Nov (sash came out green, fine).
 
 **Knight**
 - **Identity block:** `A tall, broad man in his forties with a weathered square face, a short grey beard, close-cropped grey hair and a pale scar through his left eyebrow.`
