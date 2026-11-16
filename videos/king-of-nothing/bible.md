@@ -100,6 +100,8 @@ Unnamed treasure seekers, no sheets. Described per shot.
 | --- | --- | --- | --- |
 | `refs/castle-gate-close.jpg` | gate straight on, a few steps away | gate doors twice a man's height | 9 |
 | `refs/plate-castle-gate-side.jpg` | gate from the left, wall running to the round tower | merchant half the gate's height, hat at the lower edge of the hatch | 5, 7 |
+| `refs/plate-castle-three-quarter-right.jpg` | castle at three-quarter angle, bridge on the right | gate doors twice a man's height | outdoor shots |
+| `refs/plate-castle-three-quarter-left.jpg` | castle at three-quarter angle, bridge on the left (bridge lands slightly left of the gate) | as above | outdoor shots |
 | `refs/castle-gate-night.jpg` | gate straight on at night | as gate close | 8 |
 
 
