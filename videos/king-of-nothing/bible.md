@@ -45,6 +45,29 @@ Saved character from `cast/skeleton-cowboy/`. New outfit for this video: royal r
 - **Outfit inspiration:** `refs/king-outfit-inspiration.jpg` (Tim's photo; for Tim's eye only, never attach to Grok because it shows a real actor)
 - **Sheet:** `refs/cowboy-royal-robe-sheet.jpg` approved on 13 November 2026 (front, left profile, back, portrait). Source: `refs/cowboy-royal-robe-source.jpg`.
 
+### The visitors (pre-chorus)
+
+Living people, not skeletons (my recommendation, so only the king and the band are bone). Proposed 16 Nov 2026, waiting on Tim's sheets.
+
+**Merchant**
+- **Identity block:** `A plump middle-aged man with a round ruddy face, small sharp eyes behind round wire-rimmed spectacles, and a thin grey moustache.`
+- **Outfit block:** `He wears a battered brown bowler hat, a long dark brown frock coat over a faded green brocade waistcoat, a white shirt, grey striped trousers and worn black shoes.`
+- **Short anchor:** `the plump merchant in the bowler hat and green waistcoat`
+- **Prop:** a small wooden chest with iron bands, always closed (nothing of value shown).
+- **Sheet:** `refs/merchant-sheet.jpg` (to do)
+
+**Knight**
+- **Identity block:** `A tall, broad man in his forties with a weathered square face, a short grey beard, close-cropped grey hair and a pale scar through his left eyebrow.`
+- **Outfit block:** `He wears a dented steel breastplate over a faded white surcoat, chain-mail sleeves, brown leather gloves, a sword in a plain leather scabbard on his left hip and worn brown riding boots.`
+- **Short anchor:** `the grey-bearded knight in the dented breastplate and white surcoat`
+- **Sheet:** `refs/knight-sheet.jpg` (to do)
+
+**Spy**
+- **Identity block:** `A thin young man with a narrow pale face, sharp cheekbones, dark stubble and dark watchful eyes.`
+- **Outfit block:** `He wears a deep charcoal hood, a long charcoal wool cloak, a black scarf pulled down around his neck, a dark leather jerkin, black gloves, dark trousers and soft black boots.`
+- **Short anchor:** `the thin spy in the charcoal hood and cloak`
+- **Sheet:** `refs/spy-sheet.jpg` (to do)
+
 ### The crowd
 
 Unnamed treasure seekers, no sheets. Described per shot.
