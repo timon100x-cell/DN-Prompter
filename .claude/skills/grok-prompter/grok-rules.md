@@ -70,7 +70,8 @@ Tested 16 Nov 2026 (King of Nothing shot 5). Writing one prompt that sets a new 
 3. **Size against something in the plate:** "He is half as tall as the gate doors, and his hat reaches the lower edge of the hatch."
 4. **Light from the plate, not the sheet:** "Use Image 2 only for his face, hat and clothing, not its light or pose. Light him with the [light] already in Image 1, with a soft shadow on the ground under his feet."
 5. **If he still looks pasted on:** one edit that relights only him ("Match the light on the merchant to the grey daylight on the wall, and add a soft contact shadow under his shoes. Keep everything else exactly as it is.").
-6. **Closer shots** of the same moment are short focus edits of the approved wider shot, as with the band.
+6. **Openings keep their size only if you say so.** In shot 7 a small hatch "slid open" grew into a big window. Write "the hatch opens, the same size as in Image 1".
+7. **Closer shots** of the same moment are short focus edits of the approved wider shot, as with the band.
 
 Tim works in a fresh Grok chat for each step, so Grok starts from the attached images and not from its own last result.
 

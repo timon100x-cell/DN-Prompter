@@ -17,7 +17,7 @@ Use the two-step method in `grok-rules.md` ("Putting a character in a location")
 Add template (attach 1 plate, 2 sheet, 3 prop if close to camera):
 
 ```
-Add [short anchor] from Image 2 to Image 1. [He/She] [pose just before the action, where in the plate, facing what]. [Size against a landmark in the plate.] [Anything held or changed.] Use Image 2 only for [his/her] [face, headwear] and clothing, not its light or pose. Light [him/her] with the [light] already in Image 1, with a soft shadow on the ground under [his/her] feet[ and fog around the ankles]. Keep [landmarks], the camera position and the framing of Image 1 exactly as they are.
+Add [short anchor] from Image 2 to Image 1. [He/She] [pose just before the action, where in the plate, facing what]. [Size against a landmark in the plate.] [Anything held or changed; a door or hatch that opens stays "the same size as in Image 1".] Use Image 2 only for [his/her] [face, headwear] and clothing, not its light or pose. Light [him/her] with the [light] already in Image 1, with a soft shadow on the ground under [his/her] feet[ and fog around the ankles]. Keep [landmarks], the camera position and the framing of Image 1 exactly as they are.
 ```
 
 The add prompt carries no look line and no composition sentence: the plate already has them.
