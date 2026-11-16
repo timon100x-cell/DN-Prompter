@@ -186,7 +186,7 @@ Agreed with Tim 16 Nov 2026: introduce the castle by day. One shot per lyric lin
 | --- | --- | --- | --- |
 | V1 | Have you heard about the castle? | Close-up: the lead singer singing the first line | focus edit of band-master |
 | V2 | Standing in the meadow | The castle in the fog, wide | style-pick as is |
-| V3 | A king upon his throne | The king alone on his throne by day | add king to throne-room-master |
+| V3 | A king upon his throne | A villager's eye at a gap in the barred door, the king small on his throne beyond | add king to throne-room-master, then move camera to the door |
 | V4 | Who guards a wealth unknown | The barred door of the throne hall, close | edit of throne-room-master |
 | V5 | They say he hides a fortune | Villagers round a tavern table, one telling the tale | fresh image |
 | V6 | A king's worth of gold | The merchant on the prairie, eyeing the castle | add merchant to plate-castle-three-quarter-right |
