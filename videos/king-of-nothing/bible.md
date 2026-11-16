@@ -99,7 +99,7 @@ Unnamed treasure seekers, no sheets. Described per shot.
 | Plate | View | Size note | Used by |
 | --- | --- | --- | --- |
 | `refs/castle-gate-close.jpg` | gate straight on, a few steps away | gate doors twice a man's height | 9 |
-| Tim's side view (not saved yet) | gate from the left, wall running to the round tower | merchant half the gate's height, hat at the lower edge of the hatch | 5, 7 |
+| `refs/plate-castle-gate-side.jpg` | gate from the left, wall running to the round tower | merchant half the gate's height, hat at the lower edge of the hatch | 5, 7 |
 | `refs/castle-gate-night.jpg` | gate straight on at night | as gate close | 8 |
 
 
