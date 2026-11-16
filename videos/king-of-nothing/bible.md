@@ -173,10 +173,10 @@ Agreed with Tim 16 Nov 2026 (third version, 8 shots of about 3 s). All night, ti
 | I2 | A line of torches far off in the fog, coming closer | fresh image |
 | I3 | The bridge from the side in fog, at night | Tim's bridge close-up, night edit |
 | I4 | Over the shoulder of a torch-bearer, the castle dark in the fog far off | edit of style-pick (night) |
-| I5 | The closed hatch at night, torchlight on the planks | edit of castle-gate-night |
+| I5 | Close-up: a fist about to knock on the gate, torchlight | edit of castle-gate-night |
 | I6 | The king alone on his throne by candlelight | add king to throne-room-night |
 | I7 | Extreme close-up of the crown | focus edit of I6, relit |
-| I8 | The hatch open, the skull staring into the lens (vocals start) | add king to castle-gate-night, then focus edit |
+| I8 | Inside the dark gatehouse: the king stands behind the closed gate, seen from behind, torchlight leaking through the planks (vocals start) | fresh image, king sheet + crown |
 
 ## Band shots
 
