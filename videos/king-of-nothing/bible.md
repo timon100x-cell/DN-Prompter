@@ -100,9 +100,34 @@ Instruments:
 
 ## Shot list
 
-| # | Tim's description | Location | Characters | Status |
-| --- | --- | --- | --- | --- |
-| 1 | | | | to do |
+Draft 16 Nov 2026, built from Tim's ideas plus Claude's suggestions; Tim to confirm.
+
+| # | Song part | Shot | Location | Characters | Idea from | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Intro | Castle on the prairie in the fog, wide | castle exterior | - | Tim's look test | draft |
+| 2 | Intro | The king alone on his throne, crown on, still | throne room | king | Tim | draft |
+| 3 | Verse 1 | Villagers whispering and pointing toward the distant castle | village | villagers | Claude | draft |
+| 4 | Pre-chorus | The merchant crossing the plank bridge with a closed chest | castle exterior | merchant | Tim | draft |
+| 5 | Pre-chorus | The merchant at the closed gate, holding up the chest, talking to the hatch | castle gate | merchant | Tim | draft |
+| 6 | Pre-chorus | The knight walking up to the gate, sword at his side | castle exterior | knight | Tim | draft |
+| 7 | Pre-chorus | The knight at the gate, hand on his chest, speaking of honor | castle gate | knight | Tim | draft |
+| 8 | Pre-chorus | The spy creeping along the wall at night, peering through a gap in the planks | castle exterior night | spy | Tim | draft |
+| 9 | Pre-chorus | The king's empty eye sockets in the small hatch of the gate: no | castle gate | king | Tim | draft |
+| 10 | Pre-chorus | Rejected: the merchant walking away over the bridge, chest still in his arms | castle exterior | merchant | Tim | draft |
+| 11 | Pre-chorus | Rejected: the knight walking away, head down | castle exterior | knight | Tim | draft |
+| 12 | Chorus | The king on his throne from a low angle, lord of the meadow | throne room | king | Tim | draft |
+| 13 | Chorus | The king on top of the tallest tower, looking out over the fog | castle tower | king | Claude | draft |
+| 14 | Verse 2 | Villagers gathering in the village square at dusk, lighting torches | village dusk | villagers | Tim | draft |
+| 15 | Verse 2 | Torch procession crossing the dark prairie toward the castle | prairie night | villagers | Tim | draft |
+| 16 | Verse 2 | Villagers pressing torches to the timber walls | castle exterior night | villagers | Tim | draft |
+| 17 | Verse 2 | The castle burning, villagers as dark shapes in the foreground | castle burning | villagers | Tim | draft |
+| 18 | Verse 2 | The king on his throne as flames climb the banner behind him | throne room burning | king | Claude | draft |
+| 19 | Verse 2 | Close-up: the crown, gold paint blistering off to bare wood | throne room burning | - | Tim (earlier) | draft |
+| 20 | Bridge | Morning: villagers digging through charred beams | castle ruins | villagers | Tim | draft |
+| 21 | Bridge | Bone-dry ash running through empty hands | castle ruins | villagers | Claude | draft |
+| 22 | Silence | The ruins in fog, villagers standing still, empty-handed | castle ruins | villagers | Claude | draft |
+| 23 | Final chorus | The one old wooden throne standing unburnt in the ruins | castle ruins | - | lyrics | draft |
+| 24 | Outro | The king seated on that throne in the ruins, crown now bare wood | castle ruins | king | Claude | draft |
 
 ## Band shots
 
