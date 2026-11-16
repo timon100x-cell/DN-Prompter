@@ -171,7 +171,7 @@ Agreed with Tim 16 Nov 2026 (third version, 8 shots of about 3 s). All night, ti
 | --- | --- | --- |
 | I1 | Close-up: one torch moving through the fog | fresh image |
 | I2 | A line of torches far off in the fog, coming closer | fresh image |
-| I3 | The bridge from the side in fog, at night | Tim's bridge close-up, night edit |
+| I3 | Villagers with torches crossing the bridge at night, seen from the side | night edit of Tim's bridge close-up, then add villagers |
 | I4 | Over the shoulder of a torch-bearer, the castle dark in the fog far off | edit of style-pick (night) |
 | I5 | Close-up: a fist about to knock on the gate, torchlight | edit of castle-gate-night |
 | I6 | The king alone on his throne by candlelight | add king to throne-room-night |
