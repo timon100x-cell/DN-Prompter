@@ -78,7 +78,7 @@ Unnamed treasure seekers, no sheets. Described per shot.
 
 - **Location block:** `A weathered timber castle stands alone on flat open prairie, a narrow wooden plank bridge crossing a small still moat to its tall closed front gate. The castle is built of grey weathered logs and planks with patches of cracked whitewash, with five towers under steep conical roofs of faded crimson wooden shingles, the tallest tower centered above the gate.`
 - **Short anchor:** `the timber castle with its red-roofed towers, moat and plank bridge`
-- **References:** `refs/style-pick.jpg` is the master (day, fog). Also approved: `refs/castle-burning.jpg` (night, on fire) and `refs/castle-ruins.jpg` (morning after, charred posts, gate still standing). Both edits of the master, first try.
+- **References:** `refs/style-pick.jpg` is the master (day, fog). Also approved: `refs/castle-burning.jpg` (night, on fire) and `refs/castle-ruins.jpg` (morning after, charred posts, gate still standing). Both edits of the master, first try. `refs/castle-gate.jpg` approved 16 Nov (v2: camera a few steps in front of the gate on the grass, closed hatch in the right door; v1 invented a new building).
 
 ### Throne room
 
