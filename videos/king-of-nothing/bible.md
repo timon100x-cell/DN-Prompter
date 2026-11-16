@@ -199,6 +199,28 @@ Agreed with Tim 16 Nov 2026: introduce the castle by day. One shot per lyric lin
 | V7 | But no one gets inside | Bird's-eye: the lone walled castle, no way in | edit of style-pick |
 | V8 | No matter what they're told | A dark figure with a crown at the gate-tower window | edit of style-pick (low angle) |
 
+### Chorus and solos (1:10 to 2:11)
+
+Agreed with Tim 16 Nov 2026: 15 clips of about 4 s. Chorus, then a banjo solo and an electric guitar solo cut against the villagers preparing.
+
+| # | Part | Shot | Built from |
+| --- | --- | --- | --- |
+| C1 | Chorus | Full band, wide | band-master as is |
+| C2 | Lord of the meadow | The king on the wall walkway, looking out over the fog | plate from style-pick, then add king |
+| C3 | Master of the keep | Singer, low angle | shots/B2 as is |
+| C4 | A fortune lies beneath him | Chained trapdoor in the throne platform | edit of throne-room-master |
+| C5 | (drum hit) | Drummer from the front (B10) | focus edit of band-master |
+| C6 | Beg and plead | Villagers at the moat reaching toward the gate | add crowd to style-pick |
+| C7 | Won't think twice | Gloved fingers about to pinch out a candle | fresh, king sheet for the glove |
+| C8 | Banjo solo | Banjo player | shots/B8 as is |
+| C9 | Banjo solo | Old man wrapping rags around a torch in a barn | fresh |
+| C10 | Banjo solo | Banjo picking hand (B9) | focus edit of band-master |
+| C11 | Banjo solo | Torch heads dipped in black tar | fresh |
+| C12 | Guitar solo | Guitarist alone, low angle under the chandelier | focus edit of band-master |
+| C13 | Guitar solo | Farmer sharpening a pitchfork on a grindstone | fresh |
+| C14 | Guitar solo | Fretting hand | shots/B6 as is |
+| C15 | Guitar solo | Village square at dusk, first torch flares | fresh (or edit of Tim's villagers image) |
+
 ## Band shots
 
 | # | Description | Members | Attach | Status |
