@@ -221,6 +221,10 @@ Agreed with Tim 16 Nov 2026: 15 clips of about 4 s. All at night (Tim, 17 Nov). 
 | C14 | Guitar solo | Fretting hand | shots/B6 as is |
 | C15 | Guitar solo | Village square at night, first torch flares | fresh (or edit of Tim's villagers image) |
 
+### Bridge, final chorus and outro (from "They searched beneath the stone")
+
+Draft plan 17 Nov 2026, starts at grey dawn after `refs/castle-burning-smoke.jpg`. Tim's notes: the treasure was rumoured to be behind the barred side door of the throne room (shot 3 opens it: empty). The band plays in the burned-out ballroom inside the castle, all members blackened, with burn marks and covered in ash (band skulls may be scorched; the king's skull stays smooth).
+
 ## Band shots
 
 | # | Description | Members | Attach | Status |
