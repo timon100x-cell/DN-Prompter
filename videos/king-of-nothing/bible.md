@@ -225,6 +225,31 @@ Agreed with Tim 16 Nov 2026: 15 clips of about 4 s. All at night (Tim, 17 Nov). 
 
 Draft plan 17 Nov 2026, starts after `refs/castle-burning-smoke.jpg`. Setting for the rest of the video (Tim): break of dawn, the ruin smouldering and smoking, small fires here and there. Shot 3: the barred door still stands in its frame while the walls around it are half burned down. Tim's notes: the treasure was rumoured to be behind the barred side door of the throne room (shot 3 opens it: empty). The band plays in the burned-out ballroom inside the castle, all members blackened, with burn marks and covered in ash (band skulls may be scorched; the king's skull stays smooth).
 
+Length 1:10, 18 clips of about 4 s. The merchant and the knight come back to help search (Tim).
+
+Plates first: P1 throne hall ruin at dawn (edit of throne-room-master), P2 burned ballroom (edit of ballroom-master), P3 burned band (edit of band-master with P2).
+
+| # | Line | Shot | Built from |
+| --- | --- | --- | --- |
+| E1 | They searched beneath the stone | Villagers shovelling ash in the ruins | edit of castle-ruins |
+| E2 | They tore the ruins wide | The knight and villagers hauling a charred beam with ropes | P1 + knight sheet |
+| E3 | No jewels were found below | The barred door standing alone, walls burned away, the merchant peering past it at nothing | P1 + merchant sheet |
+| E4 | No riches left inside | Close: ash running through the merchant's empty hands | merchant sheet |
+| E5 | No silver in the ashes | A shovel turning up only black earth | fresh |
+| E6 | No gold beneath the ground | Wide: the smoking ruin at dawn, figures small | edit of castle-burning-smoke |
+| E7 | Just broken beams... and silence | Everyone frozen among the ruins in the smoke | P1 + crowd |
+| E8 | NOTHING! | Full band in the burned ballroom | P3 |
+| E9 | He's the king of nothing | Singer close, ash-covered | focus edit of P3 |
+| E10 | No gold was buried there | The crown in the ash, paint burned to bare wood | prop-crown |
+| E11 | He built his mighty legend | The king painting in the entrance hall, half scorched | edit of Tim's entrance hall |
+| E12 | With whispers in the air | Villagers walking away into the smoke, heads together | edit of E6 |
+| E13 | They burned the walls for treasure | Guitarist in the ashes | focus edit of P3 |
+| E14 | But found no royal prize | The merchant in the ruins, hat in his hands | P1 + merchant sheet |
+| E15 | His only wealth was watching | The knight looking back at the ruin from the bridge | edit of E6 + knight sheet |
+| E16 | The wonder in their eyes | A village child staring wide-eyed at the ruin | fresh |
+| E17 | Just one old wooden throne | The throne standing unburnt in the ruin | P1 as is or closer |
+| E18 | With nothing in his head | The king on that throne, crown bare wood. Final shot | P1 + king sheet + crown |
+
 ## Band shots
 
 | # | Description | Members | Attach | Status |
