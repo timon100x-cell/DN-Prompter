@@ -201,7 +201,7 @@ Agreed with Tim 16 Nov 2026: introduce the castle by day. One shot per lyric lin
 
 ### Chorus and solos (1:10 to 2:11)
 
-Agreed with Tim 16 Nov 2026: 15 clips of about 4 s. Chorus, then a banjo solo and an electric guitar solo cut against the villagers preparing.
+Agreed with Tim 16 Nov 2026: 15 clips of about 4 s. All at night (Tim, 17 Nov). Chorus, then a banjo solo and an electric guitar solo cut against the villagers preparing.
 
 | # | Part | Shot | Built from |
 | --- | --- | --- | --- |
@@ -219,7 +219,7 @@ Agreed with Tim 16 Nov 2026: 15 clips of about 4 s. Chorus, then a banjo solo an
 | C12 | Guitar solo | Guitarist alone, low angle under the chandelier | focus edit of band-master |
 | C13 | Guitar solo | Farmer sharpening a pitchfork on a grindstone | fresh |
 | C14 | Guitar solo | Fretting hand | shots/B6 as is |
-| C15 | Guitar solo | Village square at dusk, first torch flares | fresh (or edit of Tim's villagers image) |
+| C15 | Guitar solo | Village square at night, first torch flares | fresh (or edit of Tim's villagers image) |
 
 ## Band shots
 
