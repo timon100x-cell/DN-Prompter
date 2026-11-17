@@ -233,7 +233,7 @@ Plates first: P1 throne hall ruin at dawn (edit of throne-room-master), P2 burne
 | --- | --- | --- | --- |
 | E1 | They searched beneath the stone | Villagers shovelling ash in the ruins | edit of castle-ruins |
 | E2 | They tore the ruins wide | The knight and villagers hauling a charred beam with ropes | P1 + knight sheet |
-| E3 | No jewels were found below | The barred door standing alone, walls burned away, the merchant peering past it at nothing | approved, shots/E3.jpg |
+| E3 | No jewels were found below | The barred door still standing in half-burned walls, the merchant peering around it at nothing | redo: plate first, then add merchant |
 | E4 | No riches left inside | Close: ash running through the merchant's empty hands | merchant sheet |
 | E5 | No silver in the ashes | A shovel turning up only black earth | fresh |
 | E6 | No gold beneath the ground | Wide: the smoking ruin at dawn, figures small | edit of castle-burning-smoke |
