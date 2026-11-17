@@ -227,7 +227,7 @@ Draft plan 17 Nov 2026, starts after `refs/castle-burning-smoke.jpg`. Setting fo
 
 Length 1:10, 18 clips of about 4 s. The merchant and the knight come back to help search (Tim).
 
-Plates first: P1 throne hall ruin at dawn (edit of throne-room-master), P2 burned ballroom (edit of ballroom-master), P3 burned band (edit of band-master with P2).
+Plates first: P1 throne hall ruin at dawn (edit of throne-room-master), P2 burned ballroom (edit of ballroom-master), P3 burned band: approved 17 Nov, `refs/band-burned.jpg` (band in the open on the ash among charred posts, meadow and black smoke sky behind).
 
 | # | Line | Shot | Built from |
 | --- | --- | --- | --- |
