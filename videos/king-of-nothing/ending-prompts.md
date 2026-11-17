@@ -138,7 +138,7 @@ Move the camera closer to the throne at eye level, framed on the old wooden thro
 Video: `Smoke drifts slowly past the empty throne. Dust settles in the dim light. The camera dollies slowly toward it.`
 
 ## 18. The king of nothing (final shot)
-Attach: 1 your result of clip 17, 2 king sheet, 3 crown.
+Attach: 1 your result of clip 17 (the spiky charred throne), 2 king sheet, 3 crown.
 ```
 Add the skeleton king from Image 2 to Image 1, seated upright and perfectly still on the throne, his gloved hands on its arms, facing the camera. Use Image 3 for the shape of his crown, but its gold paint is burned away to bare scorched wood. His robe and fur collar are dusted with ash, his skull is smooth, intact and clean with no marks. He fills the throne, his crown just below the top of its high back. Light him with the cold dawn light under the black smoke already in Image 1. Keep the throne, the ruin, the smoke-filled sky, the camera position and the framing of Image 1 exactly as they are.
 ```
