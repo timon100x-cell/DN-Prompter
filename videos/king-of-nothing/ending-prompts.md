@@ -6,7 +6,7 @@ Make base pictures A, B and C first. Use a new Grok chat for every prompt. Setti
 ## A. Throne hall ruin
 Attach: throne room (day).
 ```
-Change the hall into the morning after a great fire: the walls burned half down to jagged charred stumps of black timber, the roof gone, the floor covered in grey ash and fallen blackened beams, thin smoke rising everywhere and a few small orange fires still flickering in the rubble. The whole sky above is filled with a thick, heavy ceiling of black smoke, with only a thin band of pale dawn light breaking through low at the horizon, throwing cold grey-blue light low across the ruin. The old wooden throne on its plank platform stands untouched by the fire. In the left wall the heavy plank door, still barred with its wooden beam, stands alone in its charred frame while the wall on both sides of it is burned away. The crimson banner is gone. Keep the throne, the platform, the barred door and the camera position exactly as they are. Nobody in the scene.
+Change the hall into the morning after a great fire: the walls burned half down to jagged charred stumps of black timber, the roof gone, the floor covered in grey ash and fallen blackened beams, thin smoke rising everywhere and a few small orange fires still flickering in the rubble. The whole sky above is filled with a thick, heavy ceiling of black smoke, with only a thin band of pale dawn light breaking through low at the horizon, throwing cold grey-blue light low across the ruin. The old wooden throne on its plank platform is charred black and scorched but still standing. In the left wall the heavy plank door, still barred with its wooden beam, stands alone in its charred frame while the wall on both sides of it is burned away. The crimson banner is gone. Keep the throne, the platform, the barred door and the camera position exactly as they are. Nobody in the scene.
 ```
 
 ## B. Burned ballroom
@@ -133,7 +133,7 @@ Video: `The child stares, eyes wide, then a slow faint smile appears. Smoke drif
 ## 17. The throne
 Attach: picture A.
 ```
-Move the camera closer to the throne at eye level, framed on the untouched old wooden throne on its plank platform, the only thing in the ruin not burned, ash and charred beams all around it, thin smoke curling past, the black smoke-filled sky above, dim cold dawn light falling on its seat. Keep the throne, the ruin and the sky exactly as they are. Nobody in the scene.
+Move the camera closer to the throne at eye level, framed on the old wooden throne on its plank platform, charred black but still standing, ash and charred beams all around it, thin smoke curling past, the black smoke-filled sky above, dim cold dawn light falling on its seat. Keep the throne, the ruin and the sky exactly as they are. Nobody in the scene.
 ```
 Video: `Smoke drifts slowly past the empty throne. Dust settles in the dim light. The camera dollies slowly toward it.`
 

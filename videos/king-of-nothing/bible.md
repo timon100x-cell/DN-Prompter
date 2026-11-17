@@ -247,7 +247,7 @@ Plates first: P1 throne hall ruin at dawn (edit of throne-room-master), P2 burne
 | E14 | But found no royal prize | The merchant in the ruins, hat in his hands | P1 + merchant sheet |
 | E15 | His only wealth was watching | The knight looking back at the ruin from the bridge | edit of E6 + knight sheet |
 | E16 | The wonder in their eyes | A village child staring wide-eyed at the ruin | fresh |
-| E17 | Just one old wooden throne | The throne standing unburnt in the ruin | P1 as is or closer |
+| E17 | Just one old wooden throne | The throne, charred black but still standing, in the ruin (Tim: burned) | P1 as is or closer |
 | E18 | With nothing in his head | The king on that throne, crown bare wood. Final shot | P1 + king sheet + crown |
 
 ## Band shots
