@@ -12,6 +12,7 @@ Sources: xAI Image Prompting Guide, Image Generation and Multi-Image Editing pag
 - Character sheets are the one exception to think about: 16:9 is fine, the sheet just needs margin around each view.
 - Resolution 2K for references and approved shots.
 - Never write flags such as `--ar`, `--stylize`, `--v`. They are Midjourney syntax and mean nothing to Grok.
+- **A new Grok chat for every new image or step.** In an existing chat Grok builds on its own last result instead of the attached images (King of Nothing, 16 Nov 2026). Only an edit of the image just made stays in the same chat. Say "New chat" in the settings line of every prompt that needs one.
 
 ## Sentence order for a new image
 
@@ -37,6 +38,7 @@ Four to six plain sentences, always in this order. With references attached, the
 - Emotion as something visible: "jaw tight, eyes narrowed", not "angry".
 - Words that must appear in the image go in quotes with their position.
 - Photoreal always. Tim's videos are photoreal film stills, so never drift into illustration words.
+- **Skeleton skulls are smooth and intact.** Write "smooth, intact skull" (or "smooth, clean skull") in every prompt or edit where a skull is in frame, including short focus edits. Never write cracks, fissures, seams, glowing marks or anything similar on the skeleton cowboy, in any video (Tim, 13 Nov 2026). Grok adds hairline cracks and seams on its own in close-ups, so check for them every time. Band members may get soot and ash when the story burns, but no cracks.
 
 ## Reference images
 
@@ -84,6 +86,21 @@ Tim's stills become the first frame of a Grok video clip, so every shot prompt d
 - Keep the pose stable and physically plausible, with hands and feet visible when they will move.
 - Avoid motion blur and frozen mid-air objects. The video model adds the motion.
 
+## Video prompts
+
+Tim animates every approved start frame in Grok video and wants a short video prompt with each shot (decided 19 Nov 2026). Hand it over below the image prompt, in its own code block, labelled "Video:".
+
+- **Only what moves.** The start frame already sets the place, people, light and look. Do not describe them again.
+- **Two or three short sentences:** what the subject does, what moves in the scene (fog, smoke, flames, candles, dust), and one camera move ("The camera pushes in slowly", "holds still", "slides sideways"). One camera move per clip.
+- **Sized to the clip.** Write for the clip length in the song map (usually 4 to 5 seconds), so one action, not a sequence.
+- **Skeletons move little.** A moving skull tends to grow cracks and extra details, so the king stays still or makes one slow movement; his menace comes from stillness. Band players can play with energy, since their skulls are often small in frame or soft.
+- **Lighting changes are allowed** when the start frame prepares them (a faint glow that grows as torches come closer).
+- **No new subjects appearing out of nothing.** If something must appear (a skull in a hatch), it should already be in the start frame, or Grok invents it and it will not match the sheet.
+
+### Lip-sync
+
+For a singing shot, write a longer prompt (5 to 8 sentences): the start frame, the exact words in quotes, how long they take ("from 'The' to 'eyes' over the full 10 seconds"), how the jaw moves on the long vowels, the delivery (theatrical, dramatic, with bravura), and what the band and room do around him. Tell Tim to set the clip length to match the line. Grok cannot hear the song, so the mouth only roughly follows the words; long open vowels make it easier to line up in the edit. For another tool (for example Suno video), ask whether it has a separate lyrics field and keep the words there if it does.
+
 ## Instruments and hands
 
 - Write every instrument with its counts: "a six-string electric guitar", "a four-string bass guitar", the drum kit piece by piece on its reference image.
@@ -95,13 +112,17 @@ Tim's stills become the first frame of a Grok video clip, so every shot prompt d
 
 Record the answer in "Lessons" and update the rule above.
 
-1. How does the Grok app want references named: "Image 1" wording, or tags offered in the composer? Start with "Image 1". If the app shows tags when images are attached, switch to them.
+1. Settled (King of Nothing, Nov 2026): "Image 1", "Image 2" wording in the order of attachment works.
 2. Short anchor or full character block when a sheet is attached? Test the same shot both ways once and keep the winner.
 3. Whole sheet as one reference, or a cropped single view? Start with the whole sheet.
 
 ## Lessons
 
 Dated notes from Tim's real results. Newest first.
+
+- 17 Nov 2026 (burned castle): the ruin built detail-first drifted. The throne grew as tall as the towers, too much of the building stayed standing, and burned spikes filled the horizon like a burned forest. Tim asked for "a total view of the castle burned down" first. Rule: make the overview of each story state first and build every detail shot of that state from it (see `locations.md`). Name the background that must stay ("the open meadow beyond, unburnt") and give big props a size against the building.
+- 16 Nov 2026 (intro I1): a landmark left out of the prompt is left out of the image. The bridge vanished because the prompt did not name it. Every prompt of a location names its "must stay" landmarks from the bible, even when the location image is attached.
+- 16 Nov 2026 (crown close-up): a close-up of the king's skull came back with hairline cracks and a seam that no prompt asked for, and it was lit like a studio while the wide shot was candlelit. A focus edit of a lit scene needs the light named again ("lit only by the candles, as in Image 2") and "smooth, intact skull".
 
 - 13 Nov 2026 (Tim's taste): in shots that feature one person, he likes the background softly out of focus with the scene still populated, rather than everything sharp or an empty room. Add "the background softly out of focus" to the composition sentence; the look line stays as it is.
 - 13 Nov 2026 (band master): a line-up reference passes on its arrangement and flat studio light. Say it is for clothing only, "not their poses or arrangement", stagger the figures in depth, and ask for light falloff and floor shadows. Fixed the "looks fake" result on the next try; band.md's template now does this.

@@ -11,6 +11,7 @@ Every prompt that was actually used, newest at the bottom.
 ...
 ```
 
+- **Video prompt:** `...`
 - **Edits used:** none
 - **Saved as:** `...`
 - **Verdict:** approved on [date]

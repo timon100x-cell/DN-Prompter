@@ -54,3 +54,5 @@ B10 try 1: singer's back was in the foreground (my prompt asked for it); Tim: so
 
 Shot 5, tries 1 and 2 (one prompt for angle, character and light): merchant too big, studio-lit, gate rebuilt. Tim: "the ratio man and gate is not good... lighting doesnt match".
 Shot 5, try 3 (plate then add): side view of the gate made first by Tim, merchant added with "Add the merchant from Image 2 to Image 1... half as tall as the gate doors... Light him with the flat grey daylight already in Image 1". Approved, shots/05.jpg. New method written into grok-rules.md, shots.md, locations.md.
+Shot 7: plate-castle-gate-side + knight-sheet add; try 1 hatch grew into a window and hand raised at the door; Tim's closer version with hand on the breastplate approved, shots/07.jpg.
+Shot 7 approval withdrawn: the knight faces away from the hatch (Tim). Sent to edit.

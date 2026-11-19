@@ -101,28 +101,36 @@ Save as `refs/band-lineup`, `refs/band-<member>-sheet`, `refs/prop-<instrument>`
 
 ## Band shots
 
-Band shots get their own list in the bible, numbered B1, B2 and so on, so they never mix with Tim's story shots. Tim can write his own band shots or pick from this kit. Offer the kit once, as a list he can answer with numbers.
+The band master and the first band images are numbered B1, B2 and so on. Once the song map exists (`song-map.md`), band clips are planned inside each section like any other shot, so the band sits where the music needs it (solos, breakdowns, big chorus hits). Tim can write his own band shots or pick from this kit. Offer the kit once, as a list he can answer with numbers.
 
 | Kit shot | Attach | Note |
 | --- | --- | --- |
 | Full band, wide | stage plate, line-up | This is the band master |
 | Full band, low angle or from the side | band master | An edit: "Lower the camera to knee height ..." |
-| Singer, medium | stage plate, singer sheet | Hand on the microphone, jaw slightly open |
-| Singer, close-up | singer sheet, stage plate | Skull and microphone, background soft |
-| Guitarist, medium | stage plate, guitarist sheet, guitar | Pick resting on the strings |
-| Fretting hand, extreme close-up | guitar, guitarist sheet | Bone fingers on the neck |
-| Bassist, medium | stage plate, bassist sheet, bass | |
-| Drummer from the front | stage plate, drummer sheet, drum kit | Both sticks raised |
-| Sticks and cymbal, extreme close-up | drum kit, drummer sheet | One stick just above the cymbal |
-| Over a shoulder into the room | stage plate, one member sheet | Shows the place from the stage |
+| Singer, medium or close-up | band master | Short focus edit |
+| Guitarist, medium | band master (+ guitar if it comes out wrong) | Short focus edit |
+| Fretting or picking hand, extreme close-up | band master (+ instrument) | Short focus edit |
+| Bassist, medium | band master (+ bass) | Short focus edit |
+| Banjo or other player, medium | band master (+ instrument) | Short focus edit |
+| Drummer from the front | band master | Only the drummer and the back of the room |
+| Sticks and cymbal, extreme close-up | band master | Short focus edit |
+| Over a shoulder into the room | band master | Shows the place from the stage |
 
-Tim's discovery (King of Nothing, 13 November 2026): a close-up made as a plain edit of the approved band master ("focus on the head of the lead singer") came out better than a new image built from sheet and stage plate, with natural background blur and the band still there. Tim wants these prompts short: one or two sentences ("Focus on the guitarist ..."), no role lines. For players he prefers a passionate playing pose over the moment before the note, frozen sharp with no motion blur. Try that first for close-ups and medium shots: an edit of the band master, plus the member's instrument image when the instrument must be exact.
+**Default for every single-member shot: a short focus edit of the band master.** Tim's discovery (King of Nothing, 13 November 2026): a plain edit of the approved band master ("focus on the head of the lead singer") came out better than a new image built from sheet and stage plate, with natural background blur and the band still there. Tim wants these prompts short: one or two sentences, no role lines. For players he wants passion (leaning into the solo, head thrown back), frozen sharp with no motion blur. Add the member's instrument image as Image 2 only when the instrument comes out wrong.
 
-Single-member shots are the reliable ones. Keep full-band shots to a few. In the kit table, "stage plate" for a single-member shot means the band master once it is approved (see the rule on focus below).
+Focus edit template:
 
-Build each band shot as in `shots.md`, with these additions:
+```
+Focus on the [member] playing [his instrument with its count, e.g. the five-string banjo] with passion, [one pose detail], sharp and frozen with no motion blur. [Who else is visible from this angle, softly out of focus, or "Only the [member] is in the frame".] Keep his skull smooth and clean, and keep his clothes, the instrument, the room and the light as they are.
+```
 
-- **The moment before the hit.** Stick raised, pick resting on the strings, jaw just opening at the microphone. The video model adds the motion.
+**A new story state means a new band master.** When the story changes the stage (the ballroom burns, the morning after), make the empty stage in that state first, then edit the band master into it ("the band burned and covered in ash"). Every band shot in that part of the song is then a focus edit of that new master.
+
+Single-member shots are the reliable ones. Keep full-band shots to a few.
+
+Build each band shot as in `shots.md`, with these additions. The longer single-member template below is the fallback for when a focus edit fails twice:
+
+- **Passion, frozen.** Players are shown mid-performance with energy (leaning in, head back, sticks high) but sharp, with no motion blur and nothing flying mid-air. The video model adds the motion.
 - **Counts in the prompt.** Write the instrument with its numbers every time: "a six-string electric guitar", "a four-string bass guitar".
 - **Handedness.** Right-handed means the right hand is at the strings near the body and the left hand is on the neck. Say it in the prompt for every guitar and bass shot.
 - **The drummer sits.** "Seated on the stool behind the drum kit". A standing drummer is a failure.
@@ -148,11 +156,10 @@ Use the checklist in `shots.md`, and check these first, because they fail most:
 - Smooth, intact skulls.
 - Gear stands where the stage plate puts it.
 - The skeleton cowboy is not in the frame.
+- Only members who would really be in view from this camera, the others softly out of focus. Nobody added who stands outside the view (the singer does not belong in a drummer shot from the front).
 
-## To settle the first time the band is made
+## Settled in King of Nothing (Nov 2026)
 
-Record the answers in "Lessons" in `grok-rules.md`.
-
-1. Does editing one member out of the line-up into a sheet work, or is a crop needed?
-2. Does the line-up hold all members in the band master wide, or do member sheets need to be attached as well?
-3. Do instrument counts hold with the instrument image attached, or do close-ups need an edit pass?
+1. Editing one member out of the line-up into a sheet works without cropping. Watch for clothing bleeding between neighbours.
+2. The line-up holds all five members in the band master, as long as the prompt says it is for clothing only and staggers them in depth.
+3. Instrument counts fail most on the banjo and the drum kit. Attach the instrument image as a second image when a focus edit gets one wrong.
