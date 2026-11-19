@@ -12,7 +12,9 @@ Open the DN Prompter project in Claude on any device and write one of these:
 | `Continue video: <name>` | Claude reads where you left off and carries on |
 | `Add a character` / `Add a location` | Claude asks a few questions and writes the reference prompts |
 | `Add the band` | Claude asks who is in the band for this video and sets up the band frames |
-| Paste your shot list | Claude writes a prompt for each shot, one at a time |
+| Paste the lyrics with timestamps | Claude maps the song and plans each section with you before any prompts |
+| Paste your shot list | Claude fits it to the song and writes an image prompt and a video prompt for each shot |
+| `Where is <image>?` | Claude links the video's gallery page with every approved image |
 | Upload a Grok result | Claude checks it against the prompt and says approved, or gives you a fix |
 
 ## The stages
@@ -20,9 +22,10 @@ Open the DN Prompter project in Claude on any device and write one of these:
 1. **World.** Short rounds of questions about place, time, light, color and camera.
 2. **Look test.** Three test images. You pick one and the look is locked.
 3. **Characters.** For each character: one source image, then a character sheet.
-4. **Locations.** For each place: an empty master view, a reverse angle and a closer corner.
+4. **Locations.** For each place: an empty master view and the camera angles you'll need, plus one overview of each state the place goes through (night, burning, ruin).
 5. **Band (optional).** A few questions about this video's skeleton band, then a line-up, the instruments and the stage in one of your locations.
-6. **Shots.** One prompt per shot from your list, with the references to attach, then check and fix.
+6. **Song map.** Lyrics and timestamps in, a shot plan per section out. You approve each plan; no scene is used twice.
+7. **Shots.** An image prompt and a video prompt per shot, with the references to attach, then check and fix.
 
 ## Where things are
 
@@ -35,3 +38,4 @@ Open the DN Prompter project in Claude on any device and write one of these:
 - Set 16:9 and 2K in the composer for every image.
 - Attach references in the order Claude gives.
 - Paste the prompt exactly as given.
+- Start a new Grok chat whenever the prompt says "New chat".

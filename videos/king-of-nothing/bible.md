@@ -114,6 +114,54 @@ Added 16 Nov 2026 (Tim). A long timber hallway from the inside of the gate to a 
 
 - Crown: carved wood, mostly gold paint, chipped at the edges. A later close-up shows the gold paint falling off (the reveal, so keep it mostly gold until then). `refs/prop-crown.jpg` approved 13 Nov 2026: pine boards, gold house paint, iron nail heads, small chips of grey wood. Attach it whenever the crown is in a shot (Grok turns crowns into metal without it).
 
+## Reference images
+
+Plain names used in prompts and on the gallery page: https://claude.ai/artifact/JGovekgxPYRyamemYpqmEP
+
+| File | Plain name | What it is for |
+| --- | --- | --- |
+| `refs/style-pick.jpg` | Castle | the castle master, front view; look test pick |
+| `refs/castle-inspiration.jpg` | Castle inspiration | Tim's first idea image, not attached |
+| `refs/cowboy-royal-robe-source.jpg` | King source | full-body source of the king |
+| `refs/cowboy-royal-robe-sheet.jpg` | King sheet | attach in every king shot |
+| `refs/king-outfit-inspiration.jpg` | King outfit idea | real actor photo, never attach in Grok |
+| `refs/prop-crown.jpg` | Crown | attach whenever the crown is in frame |
+| `refs/merchant-source.jpg` | Merchant source |  |
+| `refs/merchant-sheet.jpg` | Merchant sheet |  |
+| `refs/knight-source.jpg` | Knight source |  |
+| `refs/knight-sheet.jpg` | Knight sheet |  |
+| `refs/spy-source.jpg` | Spy source |  |
+| `refs/spy-sheet.jpg` | Spy sheet |  |
+| `refs/castle-gate.jpg` | Gate, wider | gate seen from a few steps back |
+| `refs/castle-gate-close.jpg` | Gate close-up | gate straight on, hatch at head height |
+| `refs/castle-gate-night.jpg` | Gate at night |  |
+| `refs/plate-castle-gate-side.jpg` | Gate side view | empty plate for shots 5 and 7 |
+| `refs/plate-castle-three-quarter-left.jpg` | Castle, front and left side | empty plate |
+| `refs/plate-castle-three-quarter-right.jpg` | Castle, front and right side | empty plate |
+| `refs/castle-birdseye.jpg` | Castle, bird's-eye |  |
+| `refs/castle-burning.jpg` | Castle burning | night, fire on the towers |
+| `refs/castle-burning-smoke.jpg` | Castle under black smoke | last frame before the bridge |
+| `refs/castle-ruins.jpg` | Castle ruins | the morning after |
+| `refs/throne-room-master.jpg` | Throne room (day) |  |
+| `refs/throne-room-night.jpg` | Throne room (night) | candlelit |
+| `refs/throne-room-corner.jpg` | Throne close view |  |
+| `refs/ballroom-master.jpg` | Ballroom | band stage, night |
+| `refs/ballroom-burning.jpg` | Ballroom burning |  |
+| `refs/stage-plate.jpg` | Stage plate | ballroom with the drum kit and microphone, empty |
+| `refs/band-lineup.jpg` | Band line-up |  |
+| `refs/band-master.jpg` | Band master | base for every band focus edit |
+| `refs/band-burned.jpg` | Burned band | base for the band in the ending |
+| `refs/band-singer-sheet.jpg` | Singer sheet | country showman |
+| `refs/band-singer-tabard-old.jpg` | Singer sheet (old) | replaced, do not use |
+| `refs/band-guitarist-sheet.jpg` | Guitarist sheet |  |
+| `refs/band-bassist-sheet.jpg` | Bassist sheet |  |
+| `refs/band-banjo-sheet.jpg` | Banjo player sheet |  |
+| `refs/band-drummer-sheet.jpg` | Drummer sheet |  |
+| `refs/prop-guitar.jpg` | Guitar |  |
+| `refs/prop-bass.jpg` | Bass |  |
+| `refs/prop-banjo.jpg` | Banjo |  |
+| `refs/prop-drums.jpg` | Drum kit |  |
+
 ## Band
 
 Status: answers in (13 Nov 2026). Five members, dressed as the king's old castle guard; modern worn dark instruments; instruments, drum kit and one microphone stand, no amps; band alone. Plays in the ballroom at night; a burning ballroom may appear in the fire part.

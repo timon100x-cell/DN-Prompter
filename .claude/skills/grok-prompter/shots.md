@@ -2,13 +2,22 @@
 
 Goal: an approved still for every shot on Tim's list. Each still is the start frame of a video clip.
 
-## Taking in the shot list
+## Where the shots come from
 
-Tim brings the shot list. Save it in the bible as a numbered table (number, his one-line description, location, characters, status). Do not rewrite his shots or add new ones. If a line does not say who, where or how close, ask one short question, or pick the obvious reading and say so.
+Shots come from the approved plan for a section (`song-map.md`). Never write shot prompts for a section whose plan Tim has not approved. If Tim pastes his own list instead, put it into the shot table against the song map, ask one short question where a line does not say who, where or how close, and show it back as the plan.
 
-Work through the list in order unless Tim names a shot. For speed he can ask for a batch ("shots 4 to 8"); give each prompt in its own code block.
+Before writing, check that every plate and story-state overview the section needs exists. Make those first.
 
-Band shots (B1, B2, ...) are a separate list in the bible. Build them as below, plus the extra rules in `band.md`.
+## Handing over a section
+
+- Each shot: its number and one line from the plan, a settings line ("New chat. 16:9, 2K. Attach: 1 Castle, front, 2 Merchant sheet"), the image prompt in its own code block, then "Video:" and the video prompt in its own code block (rules in `grok-rules.md`), then at most three things to check.
+- Use the plain names from the bible's reference table for attachments, exactly as they appear on the gallery page. Never "picture A" or "your result of clip 6" without also giving the name to save it under.
+- **Up to three shots go in the chat message. More than three go in a file** in the project files folder (`/mnt/project-files/<video>/<section>-prompts.md`), attached to a short message that says where to start and which shots depend on others. Keep the file in step: when a prompt changes, update the file and say so.
+- Say which shots depend on another result ("make 17 before 18, because 18 is built on it").
+
+## Matching results to shots
+
+When Tim sends an image, the first words of the reply name the shot it is checked as ("Shot C4, the trapdoor: approved"). If two results arrive close together, or it is unclear which prompt an image belongs to, ask in one line instead of guessing.
 
 ## Shots with a character in a location: plate, then add
 
@@ -28,7 +37,7 @@ Use this for shots without a sheet character, or where Tim wants a fresh build.
 
 1. Decide the references: the location view that matches the camera direction (master, reverse or corner), then the sheet of each character in frame, then a prop only if it is in frame. Two or three in total.
 2. Write the role lines, one per attached image.
-3. Write the six sentences in the fixed order from `grok-rules.md`, using short anchors for anything that has a reference attached and full blocks for anything that does not.
+3. Write the six sentences in the fixed order from `grok-rules.md`, using short anchors for anything that has a reference attached and full blocks for anything that does not. Name the location's "must stay" landmarks that are in view, even with the location attached.
 4. Make it a start frame: the moment just before the action, with room in the frame for the movement.
 5. End with "one figure in one scene" (or the right count) and the look line.
 
@@ -64,19 +73,22 @@ Always add camera height (eye level, low angle, high angle) and where the open s
 
 ## Checking a result
 
-Compare the image with the prompt, line by line. Report only failures.
+Compare the image with the prompt and with the master images it was built from, side by side, not with your taste. Go through the list in this order and report only failures:
 
-- Right subject, right count of figures.
-- Character matches the sheet: marks, side, headwear, garments.
-- Location matches the reference: landmarks, layout, light.
-- Every named prop present, with the right count.
-- Subject bright enough to read.
-- Framing as asked, with the open space where the motion will go.
-- It works as a start frame: stable pose, the moment before the action, no motion blur.
-- No sheet panels, no stray text, no extra limbs or fingers.
+1. **Same place.** Every item on the location's "must stay" line, one by one: shape and count of towers, roofs, doors, windows, the bridge, how big the door is next to a person. If the place was rebuilt, it is a regenerate, however good it looks.
+2. **Every named landmark present.** Anything the shot needs that is missing (a bridge, a moat) fails.
+3. **Same props.** Big props match their earlier shots in shape and size (the throne keeps its shape; it is smaller than the gate).
+4. **Character matches the sheet:** marks, side, headwear, garments. Skulls smooth and intact.
+5. **Facing and eyeline.** A character who talks to, looks at or reaches for something faces it.
+6. **Scale.** The character's size against the landmark named in the prompt.
+7. **Light from the scene, not the studio.** The character has the scene's light and a shadow on the ground. A close-up has the same light as the wide shot it came from.
+8. **Background fits the world.** Nothing added on the horizon or behind that the world does not have.
+9. **State and time.** Matches the section in the song map (night stays night, smoke sky stays smoke sky).
+10. Counts, hands, fingers, instruments, no sheet panels, no stray text.
+11. Works as a start frame: stable pose, no motion blur.
 
-Then answer Approved, Edit or Regenerate as described in SKILL.md.
+Then answer Approved, Edit or Regenerate as described in SKILL.md. **Approve only when every point passes.** If something cannot be judged from the image (too small, too dark), say "Check X before you keep it" instead of approving. An approval taken back costs Tim more than a question.
 
 ## Logging
 
-After each approved shot add an entry to `prompts.md`: shot number, attachments in order, the final prompt, any edit prompts used, the saved image name. Update the shot's status in the bible. If Tim uploads the approved still, it does not need to go into `refs/`; only references live there.
+After each approved shot add an entry to `prompts.md`: shot number, attachments in order, the final prompt, the video prompt, any edit prompts used, the saved image name. Update the shot's status in the bible's shot table, and add its setup to "Setups used". If Tim uploads the approved still, it does not need to go into `refs/`; only references live there.

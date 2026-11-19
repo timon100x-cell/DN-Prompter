@@ -13,10 +13,13 @@ One round, with suggested answers that fit the world:
 - Materials and surfaces.
 - Light sources in the place, and the time of day and weather the story uses.
 - Where in the place most of the action happens.
+- Which states the place goes through in the story (day, night, burning, ruined, flooded...). Read them from the lyrics and suggest them.
 
 ## The location block
 
 One or two sentences in the bible: what the place is, its landmarks with counts and positions, its surfaces. Plus a **short anchor** of a few words for use when the reference is attached. Use the same nouns everywhere.
+
+Also write a **"must stay" line**: the shape and count of the landmarks that make the place recognizable (for the King of Nothing castle: five round towers with tall pointed crimson roofs, a narrow gate tower, a low gate about twice a man's height, grass between moat and wall, a plank bridge with railings). Every prompt that shows the place names these, even when the image is attached, because Grok leaves out what is not named and rebuilds what is not pinned.
 
 Light is written per reference image, in the story's real lighting, because the lighting of the reference carries into every shot made from it.
 
@@ -45,6 +48,25 @@ An edit of the master: a closer view of the spot where most of the action happen
 ```
 Move the camera closer to [the spot], framed as a medium-wide view at eye level. Keep the same [landmarks in view], surfaces, lighting and time of day. No people.
 ```
+
+### 4. Standard camera angles (main locations)
+
+For a location that many shots use, make the camera angles before any shot, not on demand. In King of Nothing, angles made on demand rebuilt the castle (square towers, a giant gate), and Tim had to stop the shots to ask for side views first. Offer this set once and let Tim pick:
+
+- Front (the master)
+- Three-quarter from the left, and from the right
+- The entrance straight on, a few steps away (gate, door, stage front)
+- Low on the ground, and far away (the place small in its landscape)
+- Bird's-eye
+- From inside looking out, or the reverse angle
+
+Each is an edit of the master in a new Grok chat, written as the camera moving to a named spot, with the "must stay" line and a size note against a person. Keep only results that are clearly the same building. These double as plates (below).
+
+### 5. Story states: overview first
+
+For every state the place goes through (night, burning, ruin), first make **one overview of the whole place in that state**, as an edit of the master, and get it approved. Every detail shot of that state is then built from that overview, never from the day master. In King of Nothing the ruin was built detail-first and drifted: the throne grew as tall as the towers, too much of the building stayed standing, and burned spikes made the horizon look like a burned forest.
+
+In the overview prompt, say what is left and what is gone, how big the remaining large props are against the building, and what stays untouched around it ("the meadow beyond is unburnt"). Save it as `refs/<location>-<state>` and add the state to the bible.
 
 ### Variants
 
@@ -76,3 +98,4 @@ A recurring object (a guitar, a letter, a lantern) gets one clean reference: the
 - No people, no stray text, nothing from another era.
 - Light matches the story's time of day and is bright enough to read the whole place.
 - Reverse and corner views clearly show the same place: same landmarks, same surfaces, same light.
+- Every camera angle and state overview checked against the master for the "must stay" line, one landmark at a time. A new angle that changes a tower's shape or the size of a door is a regenerate, even if it looks good.

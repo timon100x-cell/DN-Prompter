@@ -37,7 +37,15 @@ Style pick: `refs/style-pick` (not attached to shots by default)
 
 - **Location block:** `...`
 - **Short anchor:** `...`
+- **Must stay the same in every shot:** [shape and count of the key landmarks, e.g. five round towers with tall pointed roofs, plank bridge with railings]
+- **Story states:** [day / night / burning / ruin], each with its overview image
 - **References:** `refs/...-master`, `refs/...-reverse`, `refs/...-corner`
+
+### Plates (camera positions)
+
+| Plate | Plain name | View | State | Size note | Used by |
+| --- | --- | --- | --- | --- | --- |
+| `refs/plate-...` | | | | the door is about twice a man's height | |
 
 ## Props
 
@@ -59,13 +67,41 @@ Instruments:
 
 - [instrument]: `[instrument block with counts]`, `refs/prop-...`
 
+## Reference images
+
+Every approved reference, with the plain name used in prompts and on the gallery page. Prompts always use the plain name exactly.
+
+| File | Plain name | What it is for |
+| --- | --- | --- |
+| `refs/style-pick.jpg` | Look test pick | the locked look |
+
+Gallery page: [link once made]
+
+## Song map
+
+Clip length: about [4] seconds. Song length: [m:ss].
+
+| Section | Start | End | Seconds | Lyric or music | Time and state | Clips |
+| --- | --- | --- | --- | --- | --- | --- |
+| Intro | 0:00 | | | instrumental | | |
+
+## Setups used
+
+One line per setup already in the video (subject, place, action, camera). Check every new plan against this list.
+
+- 
+
 ## Shot list
 
-| # | Tim's description | Location | Characters | Status |
-| --- | --- | --- | --- | --- |
-| 1 | | | | to do |
+One table for the whole video. Shot numbers follow the section (I1, V1, C1, S1, BR1, F1, O1); band shots keep their section number and say "band".
+
+| # | Time | Lyric or music | Shot | Built from | Status |
+| --- | --- | --- | --- | --- | --- |
+| I1 | 0:00 | | | | planned |
 
 ## Band shots
+
+The band master and any band images made before the song map. Band clips placed in the song also go in the shot list above.
 
 | # | Description | Members | Attach | Status |
 | --- | --- | --- | --- | --- |
