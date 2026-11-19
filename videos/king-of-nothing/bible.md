@@ -78,7 +78,7 @@ Unnamed treasure seekers, no sheets. Described per shot.
 
 - **Location block:** `A weathered timber castle stands alone on flat open prairie, a narrow wooden plank bridge crossing a small still moat to its tall closed front gate. The castle is built of grey weathered logs and planks with patches of cracked whitewash, with five towers under steep conical roofs of faded crimson wooden shingles, the tallest tower centered above the gate.`
 - **Short anchor:** `the timber castle with its red-roofed towers, moat and plank bridge`
-- **References:** `refs/style-pick.jpg` is the master (day, fog). Also approved: `refs/castle-burning.jpg` (night, on fire) and `refs/castle-ruins.jpg` (morning after, charred posts, gate still standing). Both edits of the master, first try. `refs/castle-gate.jpg` approved 16 Nov (v2: camera a few steps in front of the gate on the grass, closed hatch in the right door; v1 invented a new building). Tim also made `refs/castle-gate-close.jpg` (tight on the gate, no lettering, hatch on the right door) and `refs/castle-gate-night.jpg` (same, at night, for the spy).
+- **References:** `refs/style-pick.jpg` is the master (day, fog). Also approved: `refs/castle-burning.jpg` (night, on fire) and `refs/castle-ruins.jpg` (morning after, charred posts, gate still standing). Both edits of the master, first try. `refs/castle-burning-smoke.jpg` (17 Nov): high view of the castle burning under huge black smoke, gate still standing, bridge in the foreground; last frame before the bridge of the song. `refs/castle-gate.jpg` approved 16 Nov (v2: camera a few steps in front of the gate on the grass, closed hatch in the right door; v1 invented a new building). Tim also made `refs/castle-gate-close.jpg` (tight on the gate, no lettering, hatch on the right door) and `refs/castle-gate-night.jpg` (same, at night, for the spy).
 
 ### Throne room
 
@@ -86,6 +86,12 @@ Unnamed treasure seekers, no sheets. Described per shot.
 - **Short anchor:** `the bare timber throne hall with the crimson banner and slit windows`
 - **Light:** day: grey daylight through the slit windows, fog drifting low. Night: candles (variant).
 - **References:** `refs/throne-room-master.jpg` approved 13 Nov 2026 (first try). Also approved: `refs/throne-room-night.jpg` (six candles), `refs/throne-room-corner.jpg` (throne close). `-reverse` only if a shot faces the door.
+
+### Entrance hall (behind the gate)
+
+Added 16 Nov 2026 (Tim). A long timber hallway from the inside of the gate to a massive double door, open, with the throne room seen through it. That door is the throne room's main door, in the wall facing the throne (the barred door in the left wall is a side door).
+
+- **References:** `refs/entrance-hall-master.jpg` (to do; made with throne-room-master attached).
 
 ### Ballroom (band stage)
 
@@ -100,6 +106,8 @@ Unnamed treasure seekers, no sheets. Described per shot.
 | --- | --- | --- | --- |
 | `refs/castle-gate-close.jpg` | gate straight on, a few steps away | gate doors twice a man's height | 9 |
 | `refs/plate-castle-gate-side.jpg` | gate from the left, wall running to the round tower | merchant half the gate's height, hat at the lower edge of the hatch | 5, 7 |
+| `refs/plate-castle-three-quarter-right.jpg` | castle at three-quarter angle, bridge on the right | gate doors twice a man's height | outdoor shots |
+| `refs/plate-castle-three-quarter-left.jpg` | castle at three-quarter angle, bridge on the left (bridge lands slightly left of the gate) | as above | outdoor shots |
 | `refs/castle-gate-night.jpg` | gate straight on at night | as gate close | 8 |
 
 
@@ -159,6 +167,88 @@ Draft 16 Nov 2026, built from Tim's ideas plus Claude's suggestions; Tim to conf
 | 22 | Silence | The ruins in fog, villagers standing still, empty-handed | castle ruins | villagers | Claude | draft |
 | 23 | Final chorus | The one old wooden throne standing unburnt in the ruins | castle ruins | - | lyrics | draft |
 | 24 | Outro | The king seated on that throne in the ruins, crown now bare wood | castle ruins | king | Claude | draft |
+
+
+### Intro (0 to 25 s, instrumental)
+
+Agreed with Tim 16 Nov 2026 (third version, 8 shots of about 3 s). All night, ties forward to the torches.
+
+| # | Shot | Built from |
+| --- | --- | --- |
+| I1 | Close-up: one torch moving through the fog | fresh image |
+| I2 | A line of torches far off in the fog, coming closer | fresh image |
+| I3 | Villagers with torches crossing the bridge at night, seen from the side | night edit of Tim's bridge close-up, then add villagers |
+| I4 | Over the shoulder of a torch-bearer, the castle dark in the fog far off | edit of style-pick (night) |
+| I5 | Close-up: a fist about to knock on the gate, torchlight | edit of castle-gate-night |
+| I6 | The king alone on his throne by candlelight | add king to throne-room-night |
+| I7 | Extreme close-up of the crown | focus edit of I6, relit |
+| I8 | Inside the dark gatehouse: the king stands behind the closed gate, seen from behind, torchlight leaking through the planks (vocals start) | fresh image, king sheet + crown |
+
+### Verse 1 (daylight, before the fire)
+
+Agreed with Tim 16 Nov 2026: introduce the castle by day. One shot per lyric line. Draft: Tim reviews shots V2 to V8 before prompts are final.
+
+| # | Line | Shot | Built from |
+| --- | --- | --- | --- |
+| V1 | Have you heard about the castle? | Close-up: the lead singer singing the first line | focus edit of band-master |
+| V2 | Standing in the meadow | The castle in the fog, wide | style-pick as is |
+| V3 | A king upon his throne | A villager's eye at a gap in the barred door, the king small on his throne beyond | add king to throne-room-master, then move camera to the door |
+| V4 | Who guards a wealth unknown | The barred door of the throne hall, close | edit of throne-room-master |
+| V5 | They say he hides a fortune | Villagers round a tavern table, one telling the tale | fresh image |
+| V6 | A king's worth of gold | The merchant on the prairie, eyeing the castle | add merchant to plate-castle-three-quarter-right |
+| V7 | But no one gets inside | Bird's-eye: the lone walled castle, no way in | edit of style-pick |
+| V8 | No matter what they're told | A dark figure with a crown at the gate-tower window | edit of style-pick (low angle) |
+
+### Chorus and solos (1:10 to 2:11)
+
+Agreed with Tim 16 Nov 2026: 15 clips of about 4 s. All at night (Tim, 17 Nov). Chorus, then a banjo solo and an electric guitar solo cut against the villagers preparing.
+
+| # | Part | Shot | Built from |
+| --- | --- | --- | --- |
+| C1 | Chorus | Full band, wide | band-master as is |
+| C2 | Lord of the meadow | The king on the wall walkway, looking out over the fog | plate from style-pick, then add king |
+| C3 | Master of the keep | Singer, low angle | shots/B2 as is |
+| C4 | A fortune lies beneath him | Chained trapdoor in the throne platform | edit of throne-room-master |
+| C5 | (drum hit) | Drummer from the front (B10) | focus edit of band-master |
+| C6 | Beg and plead | Villagers at the moat reaching toward the gate | add crowd to style-pick |
+| C7 | Won't think twice | Gloved fingers about to pinch out a candle | fresh, king sheet for the glove |
+| C8 | Banjo solo | Banjo player | shots/B8 as is |
+| C9 | Banjo solo | Old man wrapping rags around a torch in a barn | fresh |
+| C10 | Banjo solo | Banjo picking hand (B9) | focus edit of band-master |
+| C11 | Banjo solo | Torch heads dipped in black tar | fresh |
+| C12 | Guitar solo | Guitarist alone, low angle under the chandelier | focus edit of band-master |
+| C13 | Guitar solo | Farmer sharpening a pitchfork on a grindstone | fresh |
+| C14 | Guitar solo | Fretting hand | shots/B6 as is |
+| C15 | Guitar solo | Village square at night, first torch flares | fresh (or edit of Tim's villagers image) |
+
+### Bridge, final chorus and outro (from "They searched beneath the stone")
+
+Draft plan 17 Nov 2026, starts after `refs/castle-burning-smoke.jpg`. Setting for the rest of the video (Tim): break of dawn, the ruin smouldering and smoking, small fires here and there, the whole sky filled with thick black smoke, pale dawn light only at the horizon. Shot 3: the barred door still stands in its frame while the walls around it are half burned down. Tim's notes: the treasure was rumoured to be behind the barred side door of the throne room (shot 3 opens it: empty). The band plays in the burned-out ballroom inside the castle, all members blackened, with burn marks and covered in ash (band skulls may be scorched; the king's skull stays smooth).
+
+Length 1:10, 18 clips of about 4 s. The merchant and the knight come back to help search (Tim).
+
+Plates first: P1 throne hall ruin at dawn (edit of throne-room-master), P2 burned ballroom (edit of ballroom-master), P3 burned band: approved 17 Nov, `refs/band-burned.jpg` (band in the open on the ash among charred posts, meadow and black smoke sky behind).
+
+| # | Line | Shot | Built from |
+| --- | --- | --- | --- |
+| E1 | They searched beneath the stone | Villagers shovelling ash in the ruins | edit of castle-ruins |
+| E2 | They tore the ruins wide | The knight and villagers hauling a charred beam with ropes | P1 + knight sheet |
+| E3 | No jewels were found below | The barred door still standing in half-burned walls, the merchant peering around it at nothing | redo: plate first, then add merchant |
+| E4 | No riches left inside | Close: ash running through the merchant's empty hands | merchant sheet |
+| E5 | No silver in the ashes | A shovel turning up only black earth | fresh |
+| E6 | No gold beneath the ground | Wide: the smoking ruin at dawn, figures small | edit of castle-burning-smoke |
+| E7 | Just broken beams... and silence | Everyone frozen among the ruins in the smoke | P1 + crowd |
+| E8 | NOTHING! | Full band in the burned ballroom | P3 |
+| E9 | He's the king of nothing | Singer close, ash-covered | focus edit of P3 |
+| E10 | No gold was buried there | The crown in the ash, paint burned to bare wood | prop-crown |
+| E11 | He built his mighty legend | The king painting in the entrance hall, half scorched | edit of Tim's entrance hall |
+| E12 | With whispers in the air | Villagers walking away into the smoke, heads together | edit of E6 |
+| E13 | They burned the walls for treasure | Guitarist in the ashes | focus edit of P3 |
+| E14 | But found no royal prize | The merchant in the ruins, hat in his hands | P1 + merchant sheet |
+| E15 | His only wealth was watching | The knight looking back at the ruin from the bridge | edit of E6 + knight sheet |
+| E16 | The wonder in their eyes | A village child staring wide-eyed at the ruin | fresh |
+| E17 | Just one old wooden throne | The throne, charred black but still standing, in the ruin (Tim: burned) — approved, shots/E17.jpg; spiky gothic charred throne, use it for E18 | P1 as is or closer |
+| E18 | With nothing in his head | The king on that throne, crown bare wood. Final shot | P1 + king sheet + crown |
 
 ## Band shots
 
