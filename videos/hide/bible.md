@@ -28,6 +28,11 @@ Style pick: `refs/style-pick` (not attached to shots by default)
 
 Saved character from `cast/skeleton-cowboy/`. Tim picked a new riverboat gambler outfit for this video (27 Nov 2026): black frock coat, dark red brocade vest, flat-brimmed black hat. Outfit block and sheet come in stage 3.
 
+- **Identity block:** `A tall skeleton cowboy with a smooth, intact, weathered bone-white skull and empty dark eye sockets.`
+- **Outfit block (outfit 3, riverboat outlaw):** `He wears a flat-brimmed black hat with a low round crown and a few long strands of grey hair beneath it, a long black wool frock coat reaching to his knees with worn, frayed hems, a dark red brocade vest with six small brass buttons, a white shirt with a thin black string tie, a silver watch chain across the vest, a worn black leather gun belt with one holstered revolver on his right hip, dark trousers and worn black riding boots. His hands are bare bone.`
+- **Short anchor:** `the skeleton cowboy in his long black frock coat, dark red brocade vest and flat-brimmed black hat`
+- **Sheet:** to do (source prompt sent 27 Nov 2026).
+
 ### [Character name]
 
 - **Identity block:** `...`
@@ -57,7 +62,7 @@ Saved character from `cast/skeleton-cowboy/`. Tim picked a new riverboat gambler
 
 ## Band
 
-Status: answers in (27 Nov 2026). Five members: singer, guitarist, slap bassist, banjo player, drummer. Over-the-top riverboat house band (vests, shirtsleeves with arm garters, bowler and top hats); Tim asked for two wardrobe variations (V1 gilded showboat dandies, V2 Mardi Gras riverboat), line-up prompts sent 27 Nov. V2 Mardi Gras line-up made first and approved 27 Nov as refs/band-lineup.jpg (singer came out with a black brocade vest instead of bare ribs; kept). Tim then asked for the same outfits all in black (27 Nov): recolor edit, then a second edit to make bare arm and hand bones bone-white again (the recolor had painted them black). Current refs/band-lineup.jpg is the black version; the color version is kept as refs/band-lineup-color-old.jpg. Guitarist's hands stayed black and read as black gloves. Instruments: electric guitars and bass in dark wood with brass fittings. Gear: instruments, drum kit, a few amps in wooden cases. Band alone. All right-handed.
+Status: answers in (27 Nov 2026). Five members: singer, guitarist, slap bassist, banjo player, drummer. Over-the-top riverboat house band (vests, shirtsleeves with arm garters, bowler and top hats); Tim asked for two wardrobe variations (V1 gilded showboat dandies, V2 Mardi Gras riverboat), line-up prompts sent 27 Nov. V2 Mardi Gras line-up made first and approved 27 Nov as refs/band-lineup.jpg (singer came out with a black brocade vest instead of bare ribs; kept). Tim then asked for the same outfits all in black (27 Nov): recolor edit, then a second edit to make bare arm and hand bones bone-white again (the recolor had painted them black). Current refs/band-lineup.jpg is the black version; the color version is kept as refs/band-lineup-color-old.jpg. Guitarist's hands stayed black and read as black gloves. Tim (27 Nov): no member sheets for this video; the only sheet is the cowboy's. Instruments: electric guitars and bass in dark wood with brass fittings. Gear: instruments, drum kit, a few amps in wooden cases. Band alone. All right-handed.
 
 - **Band identity line:** `a skeleton with a smooth, intact, weathered bone-white skull and empty dark eye sockets`
 - **Stage:** the casino's small lamp-lit stage at the end of the saloon, between red velvet curtains, lamps lit. Stage order: guitarist left, banjo front left, singer front center, bassist right, drummer back center.
