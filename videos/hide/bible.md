@@ -8,17 +8,17 @@ Started: 27 November 2026. Current stage: 1 World.
 - **Feeling:** creeping menace with swagger; the empty, still-lit rooms carry the tension.
 - **Scope:** about 20 story shots, plus band shots, plus custom shots Tim adds as he goes.
 - **Place and time:** 1870s Mississippi paddle steamer at night, a big, old, rotting, half-ruined ship (Tim, 27 Nov: "more broken, ruined, tattered, old, scary"): warped floorboards, peeling water-stained panels, shredded moth-eaten velvet, cobwebs. Scenes in different places inside the ship: a hallway with doors to cabins, a few different casino rooms, a ballroom with a stage and red curtains (the band plays there). No windows to the outside unless Tim asks for them in a shot. The cigar-and-coat test scene is dropped; clues are chosen per shot.
-- **Light rules:** to be set by the mood test (mood-test.md, 27 Nov). Every surface readable.
-- **Palette:** to be set by the mood test.
+- **Light rules (mood 5 "Lamp and fog", picked 27 Nov):** a few warm oil lamps make small golden pools of light, while a cold blue-grey fog drifts low across the floor and fills the back of each room, every surface still readable. No windows unless Tim asks.
+- **Palette:** warm amber in the lamplight against cold steel-blue fog and black wood, strong contrast between the two.
 - **Camera rules:** set after the look test.
 - **Motifs (clues of the hider):** a still-smoking cigar, a half-full whiskey glass, wet footprints on the carpet, a coat left on a chair, a swinging cabin door, playing cards blown across the deck, a small barking dog left behind. Knocks on doors.
 - **Never appears:** any person other than the cowboy (and the band), until the final eyes shot. No cracks of any kind on any skull.
 
 ## Look line
 
-Status: mood test running (27 Nov 2026, five light/color/film options in mood-test.md); the earlier A/B/C tests were dropped. Base line from King of Nothing; the film-feel sentence is being tested: A 35mm fine grain, B 16mm heavy grain, C large-format clean.
+Status: locked on 27 Nov 2026 (Tim picked mood 5, Lamp and fog). Base line from King of Nothing; the film-feel sentence is being tested: A 35mm fine grain, B 16mm heavy grain, C large-format clean.
 
-`Photoreal film still with natural surface texture, everything in the focal plane sharp.` + film-feel sentence (to pick)
+`Photoreal film still with natural surface texture, everything in the focal plane sharp. Shot on 35mm film with fine grain and deep, rich blacks.`
 
 Style pick: `refs/style-pick` (not attached to shots by default)
 
@@ -31,6 +31,7 @@ Saved character from `cast/skeleton-cowboy/`. Tim picked a new outlaw outfit for
 - **Identity block:** `A tall skeleton cowboy with a smooth, intact, weathered bone-white skull and empty dark eye sockets.`
 - **Outfit block (outfit 3, black outlaw; Tim 27 Nov: completely black, long duster, silver chains in his pocket, styled after refs/cowboy-outfit-inspiration.png but without hair):** `He wears a weathered black leather cowboy hat with a tall pinched crown, a wide brim curled up at the sides and a braided black leather hatband, sitting directly on his bare skull with no hair, a long black leather duster reaching to his ankles, worn and creased, with a wide collar and frayed hems, a thick black cloth scarf wrapped loosely several times around his neck, a black waistcoat over a black shirt, three thin silver chains hanging in loops from his waistcoat pocket, a worn black leather gun belt with one holstered revolver on his right hip, black trousers and worn black riding boots. His hands are bare bone.`
 - **Short anchor:** `the skeleton cowboy in his long black leather duster, black scarf and pinched black hat`
+- **Full description (Tim, 27 Nov 2026: in this video the sheet is NOT attached to shots; paste this word for word into every prompt he is in, so he takes the scene's light):** `A tall, lean skeleton cowboy with a smooth, intact, weathered bone-white skull, empty dark eye sockets and a full row of teeth, with no hair. He wears a weathered black leather cowboy hat with a tall pinched crown, a wide brim curled up at the sides and a braided black leather hatband, a thick black cloth scarf wrapped loosely several times around his neck, and a long, ankle-length black leather duster, worn and creased, with wide notched lapels, a half belt across the back and a ragged hem torn into jagged points. Under it he wears a black waistcoat with small dark buttons over a black shirt, three thin silver chains hanging in loops from the waistcoat pocket, a worn black leather gun belt with a silver buckle and one holstered revolver with a dark wooden grip on his right hip, black trousers and worn black riding boots with a buckled strap at the ankle. His hands are bare bone with five long fingers each.`
 - **Sheet:** refs/cowboy-outlaw-sheet.jpg approved 27 Nov 2026 as is (Tim kept the small dark spots on the cheekbones; always write "smooth, intact skull" in shots).
 
 ### [Character name]

@@ -120,6 +120,8 @@ Record the answer in "Lessons" and update the rule above.
 
 Dated notes from Tim's real results. Newest first.
 
+- 27 Nov 2026 (Hide): Tim chose to describe the cowboy fully in text in every prompt and not attach his sheet, so the character takes the scene's light instead of the sheet's studio light. When Tim asks for this, write a detailed description from the approved sheet (every garment, its shape, color and details, hands, skull) into the bible and paste it word for word; the sheet stays as the check reference. Watch whether details drift between shots and record the result here.
+
 - 17 Nov 2026 (burned castle): the ruin built detail-first drifted. The throne grew as tall as the towers, too much of the building stayed standing, and burned spikes filled the horizon like a burned forest. Tim asked for "a total view of the castle burned down" first. Rule: make the overview of each story state first and build every detail shot of that state from it (see `locations.md`). Name the background that must stay ("the open meadow beyond, unburnt") and give big props a size against the building.
 - 16 Nov 2026 (intro I1): a landmark left out of the prompt is left out of the image. The bridge vanished because the prompt did not name it. Every prompt of a location names its "must stay" landmarks from the bible, even when the location image is attached.
 - 16 Nov 2026 (crown close-up): a close-up of the king's skull came back with hairline cracks and a seam that no prompt asked for, and it was lit like a studio while the wide shot was candlelit. A focus edit of a lit scene needs the light named again ("lit only by the candles, as in Image 2") and "smooth, intact skull".
