@@ -57,10 +57,10 @@ Saved character from `cast/skeleton-cowboy/`. Tim picked a new riverboat gambler
 
 ## Band
 
-Status: not started / no band in this video
+Status: answers in (27 Nov 2026). Five members: singer, guitarist, slap bassist, banjo player, drummer. Over-the-top riverboat house band (vests, shirtsleeves with arm garters, bowler and top hats); Tim asked for two wardrobe variations (V1 gilded showboat dandies, V2 Mardi Gras riverboat), line-up prompts sent 27 Nov, pick pending. Instruments: electric guitars and bass in dark wood with brass fittings. Gear: instruments, drum kit, a few amps in wooden cases. Band alone. All right-handed.
 
 - **Band identity line:** `a skeleton with a smooth, intact, weathered bone-white skull and empty dark eye sockets`
-- **Stage:** [location], [light variant]. Gear: [where the drum kit, amps and microphone stand are]
+- **Stage:** the casino's small lamp-lit stage at the end of the saloon, between red velvet curtains, lamps lit. Stage order: guitarist left, banjo front left, singer front center, bassist right, drummer back center.
 - **References:** `refs/band-lineup`, `refs/stage-plate`, `refs/band-master`
 
 | Member | Member block | Instrument | Hand | Position | Short anchor | Sheet |
