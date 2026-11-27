@@ -43,13 +43,19 @@ Saved character from `cast/skeleton-cowboy/`. Tim picked a new outlaw outfit for
 
 ## Locations
 
-### [Location name]
+Structure (Tim, 27 Nov 2026): the hunt goes down the ship deck by deck. Each song section goes one level deeper, rooms get tighter and closer. Proposed map (waiting for Tim's OK):
 
-- **Location block:** `...`
-- **Short anchor:** `...`
-- **Must stay the same in every shot:** [shape and count of the key landmarks, e.g. five round towers with tall pointed roofs, plank bridge with railings]
-- **Story states:** [day / night / burning / ruin], each with its overview image
-- **References:** `refs/...-master`, `refs/...-reverse`, `refs/...-corner`
+1. Main deck: grand gaming hall (start of the hunt), private card parlor. Ballroom with stage and torn red curtains on the same deck (band only).
+2. Cabin deck: long hallway with cabin doors.
+3. Engine deck: boiler and engine room.
+4. Cargo hold: the bottom, where the eyes are found.
+
+### Grand gaming hall
+
+- **Location block:** `The grand gaming hall on the main deck of an old, rotting 1870s riverboat, long abandoned: a long carved mahogany bar along the right wall, a roulette table in the center, five round card tables with torn, faded felt around it, one crooked brass chandelier hanging from the ceiling, and a wide staircase with a broken banister at the back leading down into the dark. Warped, rotting floorboards, peeling water-stained wall panels, curtains in shredded, moth-eaten strips, cobwebs.`
+- **Short anchor:** `the grand gaming hall`
+- **Must stay:** long bar on the right, one roulette table in the center, five round card tables, one crooked chandelier, the wide staircase down at the back. No windows.
+- **References:** master prompt sent 27 Nov.
 
 ### Plates (camera positions)
 
