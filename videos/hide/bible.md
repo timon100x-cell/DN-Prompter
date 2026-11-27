@@ -5,24 +5,28 @@ Started: 27 November 2026. Current stage: 1 World.
 ## World
 
 - **Premise:** Hide-and-seek hunt. The skeleton cowboy searches an 1870s Mississippi riverboat casino for one hiding person. No other character is ever shown, except in the very last shot: a human's eyes suddenly look out from a hiding place (found at last), right after the outro knocks and "Remember me?". Hard cut there.
-- **Feeling:** 
-- **Scope:** about [n] shots
+- **Feeling:** creeping menace with swagger; the empty, still-lit rooms carry the tension.
+- **Scope:** about 20 story shots, plus band shots, plus custom shots Tim adds as he goes.
 - **Place and time:** 1870s Mississippi paddle steamer casino at night, abandoned in a hurry with all the lights still on: half-finished drinks, scattered chips and cards, a still-burning cigar, overturned chairs, open doors, coats left behind.
-- **Light rules:** 
-- **Palette:** subjects in [colors] against [background colors]
-- **Camera rules:** 
-- **Motifs:** 
+- **Light rules:** inside, warm golden light from brass oil lamps and chandeliers, every surface readable; outside, cold blue moonlight and river mist. Lamps stay lit the whole video.
+- **Palette:** brass gold, deep red velvet and green card felt against dark mahogany and the blue-black night river.
+- **Camera rules:** set after the look test.
+- **Motifs (clues of the hider):** a still-smoking cigar, a half-full whiskey glass, wet footprints on the carpet, a coat left on a chair, a swinging cabin door, playing cards blown across the deck, a small barking dog left behind. Knocks on doors.
 - **Never appears:** any person other than the cowboy (and the band), until the final eyes shot. No cracks of any kind on any skull.
 
 ## Look line
 
-Status: draft / locked on [date]
+Status: look test running (27 Nov 2026). Base line from King of Nothing; the film-feel sentence is being tested: A 35mm fine grain, B 16mm heavy grain, C large-format clean.
 
-`[look line]`
+`Photoreal film still with natural surface texture, everything in the focal plane sharp.` + film-feel sentence (to pick)
 
 Style pick: `refs/style-pick` (not attached to shots by default)
 
 ## Characters
+
+### The skeleton cowboy
+
+Saved character from `cast/skeleton-cowboy/`. Tim picked a new riverboat gambler outfit for this video (27 Nov 2026): black frock coat, dark red brocade vest, flat-brimmed black hat. Outfit block and sheet come in stage 3.
 
 ### [Character name]
 
