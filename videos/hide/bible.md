@@ -7,16 +7,16 @@ Started: 27 November 2026. Current stage: 1 World.
 - **Premise:** Hide-and-seek hunt. The skeleton cowboy searches an 1870s Mississippi riverboat casino for one hiding person. No other character is ever shown, except in the very last shot: a human's eyes suddenly look out from a hiding place (found at last), right after the outro knocks and "Remember me?". Hard cut there.
 - **Feeling:** creeping menace with swagger; the empty, still-lit rooms carry the tension.
 - **Scope:** about 20 story shots, plus band shots, plus custom shots Tim adds as he goes.
-- **Place and time:** 1870s Mississippi paddle steamer at night, an old, rotting, half-ruined wreck (Tim, 27 Nov: "more broken, ruined, tattered, old, scary"): warped and broken floorboards, peeling water-stained panels, shredded moth-eaten velvet, cobwebs, broken windows, holes in the ceiling. Long derelict, but the hider was just here and fled in a hurry: a few lamps still burning, half-finished drink, a still-burning cigar, scattered cards, a coat left behind.
-- **Light rules:** inside, a few smoky oil lamps and single lit chandelier lamps make warm golden pools with long shadows, every surface still readable; cold blue moonlight falls through holes in the ceiling and broken windows. Outside, moonlight and river mist.
-- **Palette:** faded brass, dark blood-red velvet and dull green felt against rotting grey-brown wood and the blue-black night.
+- **Place and time:** 1870s Mississippi paddle steamer at night, a big, old, rotting, half-ruined ship (Tim, 27 Nov: "more broken, ruined, tattered, old, scary"): warped floorboards, peeling water-stained panels, shredded moth-eaten velvet, cobwebs. Scenes in different places inside the ship: a hallway with doors to cabins, a few different casino rooms, a ballroom with a stage and red curtains (the band plays there). No windows to the outside unless Tim asks for them in a shot. The cigar-and-coat test scene is dropped; clues are chosen per shot.
+- **Light rules:** to be set by the mood test (mood-test.md, 27 Nov). Every surface readable.
+- **Palette:** to be set by the mood test.
 - **Camera rules:** set after the look test.
 - **Motifs (clues of the hider):** a still-smoking cigar, a half-full whiskey glass, wet footprints on the carpet, a coat left on a chair, a swinging cabin door, playing cards blown across the deck, a small barking dog left behind. Knocks on doors.
 - **Never appears:** any person other than the cowboy (and the band), until the final eyes shot. No cracks of any kind on any skull.
 
 ## Look line
 
-Status: look test running (27 Nov 2026). Base line from King of Nothing; the film-feel sentence is being tested: A 35mm fine grain, B 16mm heavy grain, C large-format clean.
+Status: mood test running (27 Nov 2026, five light/color/film options in mood-test.md); the earlier A/B/C tests were dropped. Base line from King of Nothing; the film-feel sentence is being tested: A 35mm fine grain, B 16mm heavy grain, C large-format clean.
 
 `Photoreal film still with natural surface texture, everything in the focal plane sharp.` + film-feel sentence (to pick)
 
