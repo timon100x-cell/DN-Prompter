@@ -28,6 +28,12 @@ One sheet per outfit. Add a new entry here whenever Tim approves a new outfit.
 - **Short anchor:** `the skeleton king in his faded blue brocade robe, black fur collar and flaking gold-painted wooden crown`
 - **Sheet:** `royal-robe-sheet.jpg` (approved 13 Nov 2026). Crown prop: `royal-robe-crown.jpg`. Always attach the crown prop too when the crown is close to camera; Grok turns crowns into metal without it.
 
+### Outfit 3: black outlaw (first used in Hide, 27 Nov 2026)
+
+- **Outfit block:** `He wears a weathered black leather cowboy hat with a tall pinched crown, a wide brim curled up at the sides and a braided black leather hatband, sitting directly on his bare skull with no hair, a long black leather duster reaching to his ankles, worn and creased, with a wide collar and frayed hems, a thick black cloth scarf wrapped loosely several times around his neck, a black waistcoat over a black shirt, three thin silver chains hanging in loops from his waistcoat pocket, a worn black leather gun belt with one holstered revolver on his right hip, black trousers and worn black riding boots. His hands are bare bone.`
+- **Short anchor:** `the skeleton cowboy in his long black leather duster, black scarf and pinched black hat`
+- **Sheet:** `black-outlaw-sheet.jpg` (approved 27 Nov 2026, first try). No hair in this outfit.
+
 ## History
 
 The older "dark-nord-image-prompt" skill described him with Midjourney flags and stacked style words. Those are dropped. This file replaces that skill's character section.
