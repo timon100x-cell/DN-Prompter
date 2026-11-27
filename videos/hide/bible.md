@@ -29,8 +29,8 @@ Style pick: `refs/style-pick` (not attached to shots by default)
 Saved character from `cast/skeleton-cowboy/`. Tim picked a new outlaw outfit for this video (27 Nov 2026), first as a gambler, then changed to all black (see outfit block). Outfit block and sheet come in stage 3.
 
 - **Identity block:** `A tall skeleton cowboy with a smooth, intact, weathered bone-white skull and empty dark eye sockets.`
-- **Outfit block (outfit 3, black outlaw; Tim 27 Nov: completely black, long duster, silver chains in his pocket):** `He wears a black cowboy hat with a wide flat brim and a low round crown with a few long strands of grey hair beneath it, a long black leather duster reaching to his ankles with worn, frayed hems, a black waistcoat over a black shirt, a black bandana around his neck, three thin silver chains hanging in loops from his waistcoat pocket, a worn black leather gun belt with one holstered revolver on his right hip, black trousers and worn black riding boots. His hands are bare bone.`
-- **Short anchor:** `the skeleton cowboy in his long black leather duster and black flat-brimmed hat, silver chains at his waistcoat pocket`
+- **Outfit block (outfit 3, black outlaw; Tim 27 Nov: completely black, long duster, silver chains in his pocket, styled after refs/cowboy-outfit-inspiration.png but without hair):** `He wears a weathered black leather cowboy hat with a tall pinched crown, a wide brim curled up at the sides and a braided black leather hatband, sitting directly on his bare skull with no hair, a long black leather duster reaching to his ankles, worn and creased, with a wide collar and frayed hems, a thick black cloth scarf wrapped loosely several times around his neck, a black waistcoat over a black shirt, three thin silver chains hanging in loops from his waistcoat pocket, a worn black leather gun belt with one holstered revolver on his right hip, black trousers and worn black riding boots. His hands are bare bone.`
+- **Short anchor:** `the skeleton cowboy in his long black leather duster, black scarf and pinched black hat`
 - **Sheet:** to do (source prompt sent 27 Nov 2026).
 
 ### [Character name]
