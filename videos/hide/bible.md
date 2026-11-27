@@ -7,9 +7,9 @@ Started: 27 November 2026. Current stage: 1 World.
 - **Premise:** Hide-and-seek hunt. The skeleton cowboy searches an 1870s Mississippi riverboat casino for one hiding person. No other character is ever shown, except in the very last shot: a human's eyes suddenly look out from a hiding place (found at last), right after the outro knocks and "Remember me?". Hard cut there.
 - **Feeling:** creeping menace with swagger; the empty, still-lit rooms carry the tension.
 - **Scope:** about 20 story shots, plus band shots, plus custom shots Tim adds as he goes.
-- **Place and time:** 1870s Mississippi paddle steamer casino at night, abandoned in a hurry with all the lights still on: half-finished drinks, scattered chips and cards, a still-burning cigar, overturned chairs, open doors, coats left behind.
-- **Light rules:** inside, warm golden light from brass oil lamps and chandeliers, every surface readable; outside, cold blue moonlight and river mist. Lamps stay lit the whole video.
-- **Palette:** brass gold, deep red velvet and green card felt against dark mahogany and the blue-black night river.
+- **Place and time:** 1870s Mississippi paddle steamer at night, an old, rotting, half-ruined wreck (Tim, 27 Nov: "more broken, ruined, tattered, old, scary"): warped and broken floorboards, peeling water-stained panels, shredded moth-eaten velvet, cobwebs, broken windows, holes in the ceiling. Long derelict, but the hider was just here and fled in a hurry: a few lamps still burning, half-finished drink, a still-burning cigar, scattered cards, a coat left behind.
+- **Light rules:** inside, a few smoky oil lamps and single lit chandelier lamps make warm golden pools with long shadows, every surface still readable; cold blue moonlight falls through holes in the ceiling and broken windows. Outside, moonlight and river mist.
+- **Palette:** faded brass, dark blood-red velvet and dull green felt against rotting grey-brown wood and the blue-black night.
 - **Camera rules:** set after the look test.
 - **Motifs (clues of the hider):** a still-smoking cigar, a half-full whiskey glass, wet footprints on the carpet, a coat left on a chair, a swinging cabin door, playing cards blown across the deck, a small barking dog left behind. Knocks on doors.
 - **Never appears:** any person other than the cowboy (and the band), until the final eyes shot. No cracks of any kind on any skull.
